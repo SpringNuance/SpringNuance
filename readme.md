@@ -31,7 +31,7 @@
 :goggles: <a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324">Reactor pattern in Hangman Game</a>
 
 ### Mini Projects I have created
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=multiple-choice-app)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
+[![Readme Card]()](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=etch-a-sketch)](https://springnuance.github.io/etch-a-sketch/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=rock-paper-scissors)](https://springnuance.github.io/rock-paper-scissors/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=calculator)](https://springnuance.github.io/calculator/) 
