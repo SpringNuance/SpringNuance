@@ -26,7 +26,7 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> 
 
-### Mini Projects I have created
+### Mini Projects I have created. You can try them live by clicking in the cards!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=multiple-choice-app)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=etch-a-sketch)](https://springnuance.github.io/etch-a-sketch/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=rock-paper-scissors)](https://springnuance.github.io/rock-paper-scissors/) 
