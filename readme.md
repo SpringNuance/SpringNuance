@@ -28,7 +28,7 @@
 
 ### Mini Projects I have created
 [![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
-[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://springnuance.github.io/etch-a-sketch/) 
+[![Readme Card](https://github.com/SpringNuance/etch-a-sketch)](https://springnuance.github.io/etch-a-sketch/) 
 [![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://springnuance.github.io/rock-paper-scissors/) 
 [![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://springnuance.github.io/calculator/) 
 
