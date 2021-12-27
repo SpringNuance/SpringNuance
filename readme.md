@@ -28,7 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> 
 
 ### Check out my articles
 :goggles: <a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324">Reactor pattern in Hangman Game</a>
