@@ -1,9 +1,6 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: [Twitter](https://twitter.com/KhuyenTran16)
-
-
 
 ### Hello visitors. I'm Xuan Binh 👋
 
@@ -31,7 +28,7 @@
 
 ### Mini Projects I have created
 [![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
-[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
-[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
-[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://springnuance.github.io/etch-a-sketch/) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://springnuance.github.io/rock-paper-scissors/) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://springnuance.github.io/calculator/) 
 
