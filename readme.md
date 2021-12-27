@@ -27,11 +27,8 @@
 
 
 ### Check out my articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-"/>
+<a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324"><img src="https://miro.medium.com/max/875/1*Qm0NaQ94BxEDgtybg-2f9g.jpeg"/>
   
-### Packages I created
+### Mini Projects I have created
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=python_snippet)](https://github.com/khuyentran1401/python_snippet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=strip_interactive)](https://github.com/khuyentran1401/strip_interactive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=same-stats-different-graphs)](https://github.com/khuyentran1401/same-stats-different-graphs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=rich-dataframe)](https://github.com/khuyentran1401/rich-dataframe)
+
