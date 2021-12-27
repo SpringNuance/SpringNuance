@@ -22,7 +22,7 @@
   - :dart: [My Portfolio]()
   - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
 
-- 📫 My stats:
+### My stats:
 
 ![Xuan Binh Github Stats](https://github-readme-stats.vercel.app/api?username=SpringNuance&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
