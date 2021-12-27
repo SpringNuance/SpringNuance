@@ -18,7 +18,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
 
 - 📫 Learn more about me on:  
-  - :dart: [Projects](https://khuyentran1401.github.io/)
+  - :dart: [My Portfolio](https://khuyentran1401.github.io/)
   - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
 
 
