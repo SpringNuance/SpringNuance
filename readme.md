@@ -30,5 +30,5 @@
 :goggles: <a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324">Reactor pattern in Hangman Game</a>
 
 ### Mini Projects I have created
-[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://github.com/khuyentran1401/top-github-scraper) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
 
