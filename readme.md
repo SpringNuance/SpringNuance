@@ -13,7 +13,7 @@
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@khuyentran1476) and [daily data science tips](https://mathdatasimplified.com/).
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@khuyentran1476)
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/xuanbinh)
 
@@ -29,7 +29,6 @@
 ### Check out my articles
 :goggles: <a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324">Reactor pattern in Hangman Game</a>
 
-  
 ### Mini Projects I have created
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://github.com/khuyentran1401/top-github-scraper) 
 
