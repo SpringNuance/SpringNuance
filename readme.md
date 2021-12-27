@@ -23,8 +23,10 @@
   - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
 
 - 📫 My stats:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
-![Xuan Binh Github Stats](https://github-readme-stats.vercel.app/api?username=SpringNuance&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+- ![Xuan Binh Github Stats](https://github-readme-stats.vercel.app/api?username=SpringNuance&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
+
 
 
 ### Check out my articles
