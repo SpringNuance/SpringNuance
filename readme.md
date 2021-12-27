@@ -31,6 +31,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=etch-a-sketch)](https://springnuance.github.io/etch-a-sketch/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=rock-paper-scissors)](https://springnuance.github.io/rock-paper-scissors/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=calculator)](https://springnuance.github.io/calculator/) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
 
 ### My stats
 
