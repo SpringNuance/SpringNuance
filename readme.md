@@ -8,10 +8,10 @@
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :zap: I enjoy web projects and solving mathematical models. My background is Computational Engineering
-- :zap: I'm a fast learner and I'm keen on to discovering novel ideas everyday
+- :zap: I enjoy building web projects and solving mathematical models with CAD and simulation softwares. My background is Computational Engineering
+- :zap: I'm a fast learner and I'm keen on discovering novel ideas everyday
 - 🌱 My coding skills revolve around web development, data analysis and asynchronous programming. 
-- 🌱 I am comfortable with working on various languages: Scala, C, C++, HTML, CSS, Javascript, Python and R
+- 🌱 My knowledge spans over various languages: Scala, C, C++, HTML, CSS, Javascript, Python and R
 - :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
 - 🌱 My hobbies are piano, drawing and playing chess
 
