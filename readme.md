@@ -28,7 +28,7 @@
 
 ### Mini Projects I have created. You can try them live by clicking on the cards!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=multiple-choice-app&show_description=false)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=etch-a-sketch&show_description=true)](https://springnuance.github.io/etch-a-sketch/) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=etch-a-sketch&show_description=false)](https://springnuance.github.io/etch-a-sketch/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=rock-paper-scissors&show_description=true)](https://springnuance.github.io/rock-paper-scissors/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=calculator&show_description=true)](https://springnuance.github.io/calculator/)
 
