@@ -15,7 +15,7 @@
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@khuyentran1476) and [daily data science tips](https://mathdatasimplified.com/).
 - Connect with me on:
-  - :office: [LinkedIn](www.linkedin.com/in/xuanbinh)
+  - :office: [LinkedIn](https://www.linkedin.com/in/xuanbinh)
 
 - 📫 Learn more about me on:  
   - :dart: [My Portfolio]()
