@@ -1,7 +1,3 @@
-Hello visitors
-</br>
-My name is Xuan Binh. I am a regular coder
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -9,7 +5,7 @@ My name is Xuan Binh. I am a regular coder
 
 
 
-### Hi there. I'm Khuyen 👋
+### Hello visitors. I'm Xuan Binh 👋
 
 <!--
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
