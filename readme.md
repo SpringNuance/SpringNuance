@@ -28,16 +28,12 @@ My name is Xuan Binh. I am a regular coder
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
 
 
-  
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<ul>
+<li>[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)</li>
+<li>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</li>
+</ul>
 ### Check out my latest articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1" alt="Recent Article 1">
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2" alt="Recent Article 2">
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3" alt="Recent Article 3">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/4" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-
     
 ### Packages I created
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
