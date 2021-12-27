@@ -8,9 +8,10 @@
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@khuyentran1476)
+- :zap: I enjoy coding projects in various languages and solving mathematical models. My background is Computational Engineering
+- 🌱 I’m keen on to learning new ideas everyday and I'm a fast learner
+- 🌱 Hobbies are piano, drawing and playing chess
+- :earth_africa: Writing blogs is a way to keep track of my learned knowledge and share it to the world! [my blogs](https://medium.com/@xuanbinh.dev)
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/xuanbinh)
 
