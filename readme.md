@@ -27,7 +27,7 @@
 
 
 ### Check out my articles
-<a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324">Reactor pattern in Hangman Game</a>
+ - :goggles: <a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324">Reactor pattern in Hangman Game</a>
 
   
 ### Mini Projects I have created
