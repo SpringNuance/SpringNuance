@@ -11,7 +11,7 @@
 - :zap: I enjoy coding projects in various languages and solving mathematical models. My background is Computational Engineering
 - 🌱 I’m keen on to learning new ideas everyday and I'm a fast learner
 - 🌱 Hobbies are piano, drawing and playing chess
-- :earth_africa: Writing blogs is a way to keep track of my learned knowledge and share it to the world! [my blogs](https://medium.com/@xuanbinh.dev)
+- :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/xuanbinh)
 
