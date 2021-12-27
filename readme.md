@@ -2,7 +2,7 @@
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
-### Hello visitors. I'm Xuan Binh, a student at Aalto University in Espoo, Finland 👋
+### Hello visitors. I'm Xuan Binh at Aalto University in Espoo, Finland 👋
 
 <!--
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
