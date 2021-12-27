@@ -32,6 +32,7 @@
 
 ### Check out my articles
 :goggles: <a target="_blank" href="https://medium.com/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324">Reactor pattern in Hangman Game</a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/reactor-pattern-in-hangman-game-4ac0c27ee324" alt="Recent Article 0"> 
 
 ### Mini Projects I have created
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=multiple-choice-app)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
