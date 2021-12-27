@@ -31,4 +31,7 @@
 
 ### Mini Projects I have created
 [![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
+[![Readme Card](https://multiple-choice-app-nuance.herokuapp.com/auth/login)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
 
