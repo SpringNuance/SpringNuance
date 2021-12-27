@@ -22,14 +22,6 @@
   - :dart: [My Portfolio]()
   - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
 
-### My stats
-
-![Xuan Binh Github Stats](https://github-readme-stats.vercel.app/api?username=SpringNuance&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
-
-
-
 ### Check out my articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> 
@@ -40,3 +32,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=rock-paper-scissors)](https://springnuance.github.io/rock-paper-scissors/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=calculator)](https://springnuance.github.io/calculator/) 
 
+### My stats
+
+![Xuan Binh Github Stats](https://github-readme-stats.vercel.app/api?username=SpringNuance&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
