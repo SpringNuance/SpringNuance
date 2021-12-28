@@ -33,7 +33,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=rock-paper-scissors&show_description=true)](https://springnuance.github.io/rock-paper-scissors/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=calculator&show_description=false)](https://springnuance.github.io/calculator/)
 
-![alt text](https://github.com/SpringNuance/SpringNuance/blob/main/DungeonCrawler.jpg)
+<img src="https://github.com/SpringNuance/SpringNuance/blob/main/DungeonCrawler.jpg" alt="Dungeon Crawler" width="700" height="350">
   
 ### My stats
 
