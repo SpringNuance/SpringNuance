@@ -25,7 +25,7 @@
 ### Check out my blog
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0">
   
 
 ### Mini Projects I have created. You can try them live by clicking on the cards!
