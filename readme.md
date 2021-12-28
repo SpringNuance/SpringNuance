@@ -35,7 +35,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=calculator&show_description=false)](https://springnuance.github.io/calculator/)
 
 ### My game group project of Dungeon Crawler. I implement Depth First Search for maze generation!
-<img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/DungeonCrawler.png" alt="Dungeon Crawler" width="650" height="350">
+<img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/DungeonCrawler.jpg" alt="Dungeon Crawler" width="650" height="350">
   
 ### My stats
 
