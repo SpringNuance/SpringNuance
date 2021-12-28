@@ -24,7 +24,7 @@
 
 ### Check out my articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/semaphores-implementation-5f0a54cc2590"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/semaphores-implementation-5f0a54cc2590" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> 
   
 
