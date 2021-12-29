@@ -35,8 +35,3 @@
 ### My game group project of Dungeon Crawler. I implement Depth First Search for maze generation!
 <img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/DungeonCrawler.jpg" alt="Dungeon Crawler" width="650" height="350">
   
-### My stats
-
-![Xuan Binh Github Stats](https://github-readme-stats.vercel.app/api?username=SpringNuance&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
