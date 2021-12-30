@@ -17,7 +17,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/xuanbinh)
 
 - 📫 Learn more about me on:  
-  - :dart: [My Portfolio]()
+  - :dart: [My Portfolio](https://springnuance.github.io)
   - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
 
 ### Check out my blog
