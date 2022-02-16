@@ -35,6 +35,6 @@
 ### My game group project of Dungeon Crawler. I implement Depth First Search for maze generation!
 <img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/DungeonCrawler.jpg" alt="Dungeon Crawler" width="650" height="350">
   
-### My game group project of Dungeon Crawler. I implement Depth First Search for maze generation!
-<img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/chat-application.png" alt="Chat-application" width="650" height="350">
+### My multithreaded chat application which supports duplex private messages, group messages and file transfering. SUpport both IPv4 and IPv6 and can be connected from different networks!
+<img src="https://github.com/SpringNuance/SpringNuance/blob/main/chat-application.png" alt="Chat-application" width="650" height="350">
   
