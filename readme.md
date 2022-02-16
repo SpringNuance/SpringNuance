@@ -35,3 +35,6 @@
 ### My game group project of Dungeon Crawler. I implement Depth First Search for maze generation!
 <img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/DungeonCrawler.jpg" alt="Dungeon Crawler" width="650" height="350">
   
+### My game group project of Dungeon Crawler. I implement Depth First Search for maze generation!
+<img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/chat-application.png" alt="Chat-application" width="650" height="350">
+  
