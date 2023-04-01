@@ -6,9 +6,9 @@
 **SpringNuance/SpringNuance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :zap: I enjoy building web projects and solving mathematical models. My background is Computational Engineering
+- :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems 
+- :zap: I am knowledgable in core computer science fields, such as HPC, networks, graphics and databases  
 - :zap: I'm a fast learner and I'm keen on discovering novel ideas everyday
-- :bulb: My coding skills revolve around web development, data analysis and asynchronous programming. 
 - :bulb: These are currently under my command: Python, R, Scala, C++, C, Matlab, Javascript, SQL
 - :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
 - 🌱 My hobbies are playing piano, chess and digital arts
