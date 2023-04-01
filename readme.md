@@ -9,9 +9,9 @@
 - :zap: I enjoy building web projects and solving mathematical models. My background is Computational Engineering
 - :zap: I'm a fast learner and I'm keen on discovering novel ideas everyday
 - :bulb: My coding skills revolve around web development, data analysis and asynchronous programming. 
-- :bulb: These are currently under my command: Python, C++, Scala, C. R, Matlab, HTML, CSS, Javascript, SQL
+- :bulb: These are currently under my command: Python, R, Scala, C++, C, Matlab, Javascript, SQL
 - :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
-- 🌱 My hobbies are piano, drawing and playing chess
+- 🌱 My hobbies are playing piano, chess and digital arts
 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/xuanbinh)
