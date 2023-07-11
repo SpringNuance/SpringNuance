@@ -21,7 +21,7 @@
   - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
 
 ### Check out my published paper
-<a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Paper 0"> 
+<a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance" alt="Recent Paper 0"> 
 
 ### Check out my blogs
 
