@@ -7,9 +7,8 @@
 -->
 
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
-- :zap: The softwares that I use frequently include Matlab, Abaqus, CreoPTC, DAMASK and HPC service 
-- :zap: I am familiar with most machine learning techniques and integrated MLOps 
-- :zap: I am knowledgable in core computer science fields, such as algorithmic techniques, computer networks and databases  
+- :zap: The engineering softwares that I use frequently include Matlab, Abaqus, CreoPTC, DAMASK and HPC service 
+- :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases  
 - :zap: I'm a fast learner and I'm keen on discovering novel ideas everyday
 - :bulb: These are currently under my command: Python, R, Matlab, Scala, C++, Stan, Julia, C, Javascript, SQL
 - :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
