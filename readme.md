@@ -1,5 +1,7 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 ### Hello visitors 👋 I'm Xuan Binh from Aalto University
 
 <!--
