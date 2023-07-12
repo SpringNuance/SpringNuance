@@ -75,7 +75,7 @@
 </br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpringNuance\&rank_icon=github&theme=tokyonight\&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact&theme=tokyonight&hide=GLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact&theme=tokyonight&hide=glsl,tex,html)
 
 ## 📣 A quote before you go
 
