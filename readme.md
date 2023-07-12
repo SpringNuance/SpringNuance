@@ -8,10 +8,7 @@
 <a target="ResearchGate Badge" href="https://www.researchgate.net/profile/Binh-Nguyen-156"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="25" />
 <a target="Medium Badge" href="https://medium.com/@xuanbinh.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" />
 
-## Hello visitors 👋 I'm Xuan Binh from Aalto University
-
-
-
+## Hello visitors 👋 I'm Xuan Binh (春平) from Aalto University
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
 - :zap: The engineering softwares that I use frequently include Matlab, Abaqus, Finnish CSC HPC service, CreoPTC and DAMASK 
 - :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases
@@ -43,7 +40,7 @@
 ## :notebook_with_decorative_cover: My publications and blogs
 
 ### Check out my published paper
-<a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/publication1.png" alt="Recent Paper 0" width=auto height="150"> 
+<a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/publication1.png" alt="Recent Paper 0" width=auto height="150" style="border-radius: 50%;"> 
   
 ### Check out my blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Article 1"> 
