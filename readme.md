@@ -12,7 +12,7 @@
 - :bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,bash,c,c++&perline=2" />
   </a>
 </p>
 - :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
