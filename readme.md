@@ -10,12 +10,15 @@
 - :zap: The engineering softwares that I use frequently include Matlab, Abaqus, CreoPTC, DAMASK and HPC service 
 - :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases  
 - :bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab,r,scala,cpp,postgres,js///git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
   </a>
 </p>
+
 - :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
+
 - 🌱 My hobbies are playing piano, chess and digital arts
 
 - Connect with me on:
