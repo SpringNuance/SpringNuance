@@ -47,6 +47,31 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> 
 
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/SpringNuance/Abaqus-Macromechanics-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=Abaqus-Macromechanics-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/SpringNuance/pomegradient">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/SpringNuance/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/SpringNuance/officeapi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
  <!--
 ### Mini Projects I have created. You can try them live by clicking on the cards!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=multiple-choice-app&show_description=false)](https://multiple-choice-app-nuance.herokuapp.com/auth/login) 
@@ -54,14 +79,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=rock-paper-scissors&show_description=true)](https://springnuance.github.io/rock-paper-scissors/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=calculator&show_description=false)](https://springnuance.github.io/calculator/)
  -->
-  
+
+ <!--
 ### My game group project of Dungeon Crawler. I implement Depth First Search for maze generation!
 <img src="https://github.com/SpringNuance/Dungeon-Crawler/blob/main/DungeonCrawler.jpg" alt="Dungeon Crawler" width="650" height="350">
   
 ### My multithreaded chat application featuring duplex private messages, group messages and file transfer. 
 ### Support both IPv4 and IPv6, local and different network connections.
 <img src="https://github.com/SpringNuance/SpringNuance/blob/main/chat-application.png" alt="Chat-application" width="650" height="350">
-  
+-->
+
 <!--## &#x1f4c8; GitHub Stats
 
 <br>
