@@ -6,7 +6,7 @@
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&height=5)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xuanbinh.dev)
 
-<img src="https://img.shields.io/badge/build-passing-%20brightgreen" height="50" />
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="50" />
 
 ### Hello visitors 👋 I'm Xuan Binh from Aalto University
 
