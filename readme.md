@@ -13,7 +13,7 @@
 - :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases
 
 ## 💼 Skills
-<br> 
+
 - :bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
 
 <p align="center">
