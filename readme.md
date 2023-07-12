@@ -1,4 +1,6 @@
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!--
+**SpringNuance/SpringNuance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 [![Binh's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
@@ -8,15 +10,13 @@
 
 ### Hello visitors 👋 I'm Xuan Binh from Aalto University
 
-<!--
-**SpringNuance/SpringNuance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
 - :zap: The engineering softwares that I use frequently include Matlab, Abaqus, Finninish CSC HPC service, CreoPTC and DAMASK 
 - :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases
 - 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart:
-- 
+  
 ## 💼 Skills
 
 - :bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
