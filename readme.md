@@ -2,9 +2,9 @@
 
 [![Binh's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
-<a target="LinkedIn Badge" href="https://www.linkedin.com/in/xuanbinh"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" height="30" />
-<a target="ResearchGate Badge" href="https://www.researchgate.net/profile/Binh-Nguyen-156"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="30" />
-<a target="Medium Badge" href="https://medium.com/@xuanbinh.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" />
+<a target="LinkedIn Badge" href="https://www.linkedin.com/in/xuanbinh"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" height="25" />
+<a target="ResearchGate Badge" href="https://www.researchgate.net/profile/Binh-Nguyen-156"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="25" />
+<a target="Medium Badge" href="https://medium.com/@xuanbinh.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" />
 
 ### Hello visitors 👋 I'm Xuan Binh from Aalto University
 
