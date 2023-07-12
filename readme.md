@@ -36,6 +36,7 @@
 
 ## :notebook_with_decorative_cover: My publications and blogs
 <br>
+
 ### Check out my published paper
 <a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/publication1.png" alt="Recent Paper 0" width=auto height="150"> 
   
