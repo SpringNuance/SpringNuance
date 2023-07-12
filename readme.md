@@ -28,24 +28,15 @@
 </p>
 <br> 
 
-<!---
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab,r,scala,cpp,postgres,bash///git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
-  </a>
-</p>
-<br> 
-
--->
-
 <details>
 <summary>More Skills</summary>
   
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
+  </a>
+</p>
+<br> 
 
 </details>
 
@@ -80,7 +71,10 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+## 📈 My statistics
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
 
 ## 📣 A quote before you go
 
