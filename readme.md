@@ -74,7 +74,8 @@
 ## 📈 My statistics
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpringNuance\&rank_icon=github&theme=tokyonight\&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact&theme=tokyonight)
 
 ## 📣 A quote before you go
 
