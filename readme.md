@@ -31,12 +31,8 @@
 
 - 🌱 My hobbies are playing piano, chess and digital arts
 
-- Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/xuanbinh)
-
-- 📫 Learn more about me on:  
-  - :dart: [My Portfolio](https://springnuance.github.io)
-  - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
+- 📫 Learn more about me on my [My Portfolio](https://springnuance.github.io) :dart: 
+  
 
 ## :notebook_with_decorative_cover: My publications and blogs
 <br>
