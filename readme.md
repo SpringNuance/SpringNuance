@@ -13,9 +13,7 @@
 - :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases
 
 ## 💼 Skills
-
 <br> 
-
 - :bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
 
 <p align="center">
@@ -23,7 +21,6 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab,r,scala,cpp,postgres,js///git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
   </a>
 </p>
-
 <br> 
 
 - :earth_africa: Writing [blogs](https://medium.com/@xuanbinh.dev) is a way to keep track of my learned knowledge and share it to the world! 
@@ -37,18 +34,13 @@
   - :dart: [My Portfolio](https://springnuance.github.io)
   - :bulb: [Medium](https://medium.com/@xuanbinh.dev)
 
-## :notebook_with_decorative_cover:
-
+## :notebook_with_decorative_cover: My publications and blogs
 <br>
-
 ### Check out my published paper
 <a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/publication1.png" alt="Recent Paper 0" width=auto height="150"> 
-
 ### Check out my blogs
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> 
-  
 <br>
 
  <!--
