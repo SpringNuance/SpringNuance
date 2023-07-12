@@ -51,10 +51,11 @@
 
 <br>
 
-<a href="https://github.com/SpringNuance/Abaqus-Macromechanics-Project">
+<a href="https://github.com/SpringNuance/Abaqus-Macromechanics-Projec">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=Abaqus-Macromechanics-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<!--
 <br>
 
 <a href="https://github.com/SpringNuance/pomegradient">
@@ -70,7 +71,7 @@
 <a href="https://github.com/SpringNuance/officeapi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+-->
 
  <!--
 ### Mini Projects I have created. You can try them live by clicking on the cards!
