@@ -23,10 +23,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab,r,scala,cpp,postgres,js///git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab,r,scala,cpp,postgres,bash&perline=9"/>
   </a>
 </p>
 <br> 
+
+<!---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab,r,scala,cpp,postgres,bash///git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
+  </a>
+</p>
+<br> 
+
+-->
 
 <details>
 <summary>More Skills</summary>
@@ -67,6 +78,19 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpringNuance&repo=chat_application_GUI-version&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+## 📣 A quote before you go
+
+> The universe is full of magical things patiently waiting for our wits to grow sharper.
+>
+> EDEN PHILLPOTTS
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 <br>
@@ -116,8 +140,4 @@
 </a>
 -->
 
-## 📣 A quote before you go
 
-> The universe is full of magical things patiently waiting for our wits to grow sharper.
->
-> EDEN PHILLPOTTS
