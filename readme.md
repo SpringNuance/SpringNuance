@@ -31,7 +31,7 @@
 
 - 🌱 My hobbies are playing piano, chess and digital arts
 
-- 📫 Learn more about me on my [My Portfolio](https://springnuance.github.io) :dart: 
+- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart: 
   
 
 ## :notebook_with_decorative_cover: My publications and blogs
