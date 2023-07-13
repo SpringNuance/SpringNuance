@@ -16,7 +16,7 @@
   
 ## 💼 Skills
 
-- :bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
+:bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,12 +30,45 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,c,aws,gcp,autocad,latex,sqlite&perline=9"/>
   </a>
 </p>
 <br> 
 
 </details>
+
+<details>
+
+<summary>My university courses</summary>
+
+<br>
+
+
+
+<center>
+
+| **MECHANICAL ENGINEERING**          | **DATA SCIENCE**               |  **COMPUTER SCIENCE**                |
+|:-----------------------------------:|:------------------------------:|:------------------------------------:|
+| Statics                             | Statistical Inference          | Data Structures And Algorithms       |
+| Dynamics                            | Linear Algebra                 | Principles Of Algorithmic Techniques |
+| Solid Mechanics                     | Mathematical Optimization      | Object-oriented Programming          |
+| Fluid Mechanics                     | Machine Learning               | Theory Of Computation                |
+| Material Science in Engineering     | Time Series Analysis           | Assembly Programming                 |
+| Thermodynamics and Heat Transfer    | Information Visualization      | Operating Systems                    |
+| Finite Element Methods              | Databases                      | Concurrent Programming               |
+| Continuum Mechanics                 | Supervised ML methods          | Programming Parallel Computers       |
+| Computer-aided Tools in Engineering | Artificial Intelligence        | Computer Graphics                    |
+| Numerical methods in Engineering    | Bayesian Data Analysis         | Computer Networks                    |
+| Numerical Analysis                  | Gaussian Processes             | Web Software Development             |
+| Fracture Mechanics                  | Deep Learning                  | Information Security                 | 
+| Computational Engineering Project   | Advanced Probabilistic Methods | Computational Social Science         | 
+| Crystal Plasticity Thesis           | Large Scale Data Analysis      | Software Engineering                 | 
+
+</center>
+
+</details>
+  
+
 
 ## :notebook_with_decorative_cover: My publications and blogs
 
