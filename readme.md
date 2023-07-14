@@ -12,7 +12,7 @@
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
 - :zap: The engineering softwares that I use frequently include Matlab, Abaqus, Finnish CSC HPC service, CreoPTC and DAMASK 
 - :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases
-- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart:
+<!-- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart: -->
   
 ## 💼 Skills
 
@@ -61,8 +61,11 @@
 | Numerical methods in Engineering    | Bayesian Data Analysis         | Computer Networks                    |
 | Numerical Analysis                  | Gaussian Processes             | Web Software Development             |
 | Fracture Mechanics                  | Deep Learning                  | Information Security                 | 
-| Computational Engineering Project   | Advanced Probabilistic Methods | Computational Social Science         | 
-| Crystal Plasticity Thesis           | Large Scale Data Analysis      | Software Engineering                 | 
+| Computational Engineering Project   | Advanced Probabilistic Methods | Stochastic Processes                 | 
+| Crystal Plasticity Thesis           | Large Scale Data Analysis      | Computational Social Science         | 
+| Selection of Engineering Materials  | Methods Of Data Mining         | Software Engineering                 |
+| Nondestructive Testing              | Reinforcement Learning         | Cloud Software And System            |
+| Product Development Project         | Computer Vision                | Software Project                     |
 
 </center>
 
