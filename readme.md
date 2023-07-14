@@ -2,7 +2,7 @@
 **SpringNuance/SpringNuance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a target="_blank"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/background.png" alt="background" width=auto height="250"> 
+<a target="_blank"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/background_kanji.png" alt="background" width=auto height="250"> 
 
 <a target="LinkedIn Badge" href="https://www.linkedin.com/in/xuanbinh"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" height="25" />
 <a target="ResearchGate Badge" href="https://www.researchgate.net/profile/Binh-Nguyen-156"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="25" />
