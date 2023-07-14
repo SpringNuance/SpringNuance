@@ -9,9 +9,6 @@
 <a target="Medium Badge" href="https://medium.com/@xuanbinh.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" />
 
 ## Hello visitors 👋 I'm Xuan Binh from Aalto University
-
-
-
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
 - :zap: The engineering softwares that I use frequently include Matlab, Abaqus, Finnish CSC HPC service, CreoPTC and DAMASK 
 - :zap: I am knowledgable in core computer science fields, such as DevOps, algorithmic techniques, computer networks and databases
@@ -19,7 +16,7 @@
   
 ## 💼 Skills
 
-- :bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
+:bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,21 +30,54 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bash,docker,c,aws,gcp,kubernetes,latex&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,c,aws,gcp,autocad,latex,sqlite&perline=9"/>
   </a>
 </p>
 <br> 
 
 </details>
 
+<details>
+
+<summary>My university courses</summary>
+
+<br>
+
+
+
+<center>
+
+| **MECHANICAL ENGINEERING**          | **DATA SCIENCE**               |  **COMPUTER SCIENCE**                |
+|:-----------------------------------:|:------------------------------:|:------------------------------------:|
+| Statics                             | Statistical Inference          | Data Structures And Algorithms       |
+| Dynamics                            | Linear Algebra                 | Principles Of Algorithmic Techniques |
+| Solid Mechanics                     | Mathematical Optimization      | Object-oriented Programming          |
+| Fluid Mechanics                     | Machine Learning               | Theory Of Computation                |
+| Material Science in Engineering     | Time Series Analysis           | Assembly Programming                 |
+| Thermodynamics and Heat Transfer    | Information Visualization      | Operating Systems                    |
+| Finite Element Methods              | Databases                      | Concurrent Programming               |
+| Continuum Mechanics                 | Supervised ML methods          | Programming Parallel Computers       |
+| Computer-aided Tools in Engineering | Artificial Intelligence        | Computer Graphics                    |
+| Numerical methods in Engineering    | Bayesian Data Analysis         | Computer Networks                    |
+| Numerical Analysis                  | Gaussian Processes             | Web Software Development             |
+| Fracture Mechanics                  | Deep Learning                  | Information Security                 | 
+| Computational Engineering Project   | Advanced Probabilistic Methods | Computational Social Science         | 
+| Crystal Plasticity Thesis           | Large Scale Data Analysis      | Software Engineering                 | 
+
+</center>
+
+</details>
+  
+
+
 ## :notebook_with_decorative_cover: My publications and blogs
 
 ### Check out my published paper
-<a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/publication1.png" alt="Recent Paper 0" width=auto height="150"> 
+<a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/publication1.png" alt="Recent Paper 0" width=auto height="150" style="border-radius: 50%;"> 
   
 ### Check out my blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> 
+<!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> -->
 
 ## 📌 Pinned Repositories
 
