@@ -16,7 +16,7 @@
   
 ## 💼 Skills
 
-:bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL
+:bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL and Bash
 
 <p align="center">
   <a href="https://skillicons.dev">
