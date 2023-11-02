@@ -46,7 +46,7 @@
 
 <center>
 
-| **MECHANICAL ENGINEERING**          | ** THEORETICAL DATA SCIENCE**  |  **COMPUTER SCIENCE**                | ** APPLIED DATA SCIENCE **          |
+| **MECHANICAL ENGINEERING**          | **THEORETICAL DATA SCIENCE**   |  **COMPUTER SCIENCE**                | **APPLIED DATA SCIENCE**            |
 |:-----------------------------------:|:------------------------------:|:------------------------------------:|:------------------------------------:
 | Statics and Dynamics                | Statistical Inference          | Data Structures And Algorithms       | SQLite/PostgresSQL Databases        |
 | Solid Mechanics                     | Linear Algebra                 | Algorithmic Techniques Principles    | MYSQL for Data Analytics            |
