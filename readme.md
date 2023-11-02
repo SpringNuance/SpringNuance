@@ -49,20 +49,20 @@
 | **MECHANICAL ENGINEERING**          | **DATA SCIENCE**               |  **COMPUTER SCIENCE**                |
 |:-----------------------------------:|:------------------------------:|:------------------------------------:|
 | Statics                             | Statistical Inference          | Data Structures And Algorithms       |
-| Dynamics                            | Linear Algebra                 | Principles Of Algorithmic Techniques |
-| Solid Mechanics                     | Mathematical Optimization      | Object-oriented Programming          |
+| Dynamics                            | Linear Algebra                 | Algorithmic Techniques Principles    |
+| Solid Mechanics                     | Mathematical Optimization      | C++ Object-oriented Programming      |
 | Fluid Mechanics                     | Machine Learning               | Theory Of Computation                |
 | Material Science in Engineering     | Time Series Analysis           | Assembly Programming                 |
 | Thermodynamics and Heat Transfer    | Information Visualization      | Operating Systems                    |
 | Finite Element Methods              | Databases                      | Concurrent Programming               |
-| Continuum Mechanics                 | Supervised ML methods          | Programming Parallel Computers       |
+| Continuum Mechanics                 | Supervised ML methods          | Parallel Programming                 |
 | Computer-aided Tools in Engineering | Artificial Intelligence        | Computer Graphics                    |
 | Numerical methods in Engineering    | Bayesian Data Analysis         | Computer Networks                    |
 | Numerical Analysis                  | Gaussian Processes             | Web Software Development             |
 | Fracture Mechanics                  | Deep Learning                  | Information Security                 | 
 | Computational Engineering Project   | Advanced Probabilistic Methods | Stochastic Processes                 | 
 | Crystal Plasticity Thesis           | Large Scale Data Analysis      | Computational Social Science         | 
-| Selection of Engineering Materials  | Methods Of Data Mining         | Software Engineering                 |
+| Selection of Engineering Materials  | Methods Of Data Mining         | High Performance Computing           |
 | Materials Safety                    | Reinforcement Learning         | Declarative Programming              |
 | Machine Design                      | Computer Vision                | Software Project I-II                |
 
