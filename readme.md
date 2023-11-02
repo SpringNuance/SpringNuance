@@ -8,7 +8,7 @@
 <a target="ResearchGate Badge" href="https://www.researchgate.net/profile/Binh-Nguyen-156"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="25" />
 <a target="Medium Badge" href="https://medium.com/@xuanbinh.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" />
 
-## Hello visitors 👋 I'm Xuan Binh a.k.a Spring Nuance
+## Hello visitors. I'm Xuan Binh a.k.a Spring Nuance
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
 - :zap: The engineering softwares that I use frequently include Python, Matlab, Abaqus, Finnish CSC HPC service, CreoPTC and DAMASK 
 <!-- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart: -->
