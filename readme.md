@@ -60,11 +60,11 @@
 | Numerical Analysis                  | Bayesian Data Analysis         | Computer Networks                    | Research in Human-in-the-loop RL    |
 | Fracture Mechanics                  | Gaussian Processes             | Web Software Development             |                                     |
 | Computational Engineering Project   | Computer Vision                | Information Security                 |                                     |
-| Crystal Plasticity Thesis           | Advanced Probabilistic Methods | Stochastic Processes                 |                                     |
+| Crystal Plasticity Thesis           | Advanced Probabilistic Methods | Declarative Programming              |                                     |
 | Selection of Engineering Materials  | Large Scale Data Analysis      | Computational Social Science         |                                     |
 | Materials Safety                    | Methods Of Data Mining         | High Performance Computing           |                                     |
 | Machine Design                      | Reinforcement Learning         | Software Project I-II                |                                     |
-|                                     | Declarative Programming        |                                      |                                     |
+|                                     | Stochastic Processes           |                                      |                                     |
 
 </center>
 
