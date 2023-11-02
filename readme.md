@@ -64,7 +64,7 @@
 | Crystal Plasticity Thesis           | Large Scale Data Analysis      | Computational Social Science         | 
 | Selection of Engineering Materials  | Methods Of Data Mining         | Software Engineering                 |
 | Materials Safety                    | Reinforcement Learning         | Declarative Programming              |
-| Product Development Project         | Computer Vision                | Software Project I-II                |
+| Machine Design                      | Computer Vision                | Software Project I-II                |
 
 </center>
 
