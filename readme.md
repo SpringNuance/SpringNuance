@@ -63,8 +63,8 @@
 | Computational Engineering Project   | Advanced Probabilistic Methods | Stochastic Processes                 | 
 | Crystal Plasticity Thesis           | Large Scale Data Analysis      | Computational Social Science         | 
 | Selection of Engineering Materials  | Methods Of Data Mining         | Software Engineering                 |
-| Nondestructive Testing              | Reinforcement Learning         | Cloud Software And System            |
-| Product Development Project         | Computer Vision                | Software Project                     |
+| Materials Safety                    | Reinforcement Learning         | Declarative Programming              |
+| Product Development Project         | Computer Vision                | Software Project I-II                |
 
 </center>
 
