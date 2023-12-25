@@ -10,7 +10,7 @@
 
 ## Hello visitors. I'm Xuan Binh a.k.a Spring Nuance
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
-- :zap: The engineering softwares that I use frequently include Python, Matlab, Abaqus, Bash, Finnish CSC HPC service, CAD softwares and DAMASK 
+- :zap: The engineering softwares that I use frequently include Python, Pytorch, Abaqus, DAMASK, Bash, Matlab, Finnish CSC HPC service and CAD softwares 
 <!-- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart: -->
   
 ## 💼 Skills
