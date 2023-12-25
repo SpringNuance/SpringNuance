@@ -107,7 +107,7 @@
 </br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpringNuance\&rank_icon=github&theme=tokyonight\&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact&theme=tokyonight&hide=glsl,tex,html,jupyter%20notebook,mathematica,CSS,Cython)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringNuance&layout=compact&theme=tokyonight&hide=glsl,tex,html,jupyter%20notebook,mathematica,CSS,Cython,Makefile)
 
 ## 📣 A quote before you go
 
