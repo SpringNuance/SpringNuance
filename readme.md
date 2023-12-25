@@ -77,9 +77,9 @@
 ### Check out my published paper
 <a target="_blank" href="https://www.researchgate.net/publication/370122286_Optimizing_crystal_plasticity_model_parameters_via_machine_learning-based_optimization_algorithms"><img src="https://github.com/SpringNuance/SpringNuance/blob/main/publication1.png" alt="Recent Paper 0" width=auto height="150" style="border-radius: 50%;"> 
   
-### Check out my blogs
+<!--### Check out my blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/1" alt="Recent Article 1"> 
-<!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xuanbinh.dev/0" alt="Recent Article 0"> -->
 
 ## 📌 Pinned Repositories
 
