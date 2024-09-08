@@ -10,12 +10,12 @@
 
 ## Hello visiting scientists. I'm Xuan Binh a.k.a Spring Nuance
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
-- :zap: The engineering softwares that I use frequently include Abaqus, DAMASK, Matlab, Finnish CSC HPC service and CAD softwares 
+- :zap: The engineering softwares that I use frequently include Abaqus, DAMASK, Matlab, Dream3D, Finnish CSC HPC service and CAD softwares 
 <!-- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart: -->
   
 ## 💼 Skills
 
-:bulb: These are currently under my command: Python, R, Scala, C++, Stan, Julia, C, Javascript, SQL and Bash
+:bulb: These are currently under my command: Python, R, C++, Stan, Julia, C, SQL and Bash
 
 <p align="center">
   <a href="https://skillicons.dev">
