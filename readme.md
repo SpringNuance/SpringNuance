@@ -9,6 +9,7 @@
 <a target="Medium Badge" href="https://medium.com/@xuanbinh.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" />
 
 ## Hello visiting scientists. I'm Xuan Binh a.k.a Spring Nuance
+- :zap: I am currently a PhD in multiscale AI for material characterization (microscale to macroscale)
 - :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
 - :zap: The engineering softwares that I use frequently include ABAQUS, DAMASK, COMSOL, Matlab, Dream3D, Finnish CSC HPC service and CAD softwares 
 <!-- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart: -->
