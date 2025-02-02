@@ -9,11 +9,12 @@
 <a target="Medium Badge" href="https://medium.com/@xuanbinh.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" />
 
 ## Hello visiting scientists. I'm Xuan Binh a.k.a Spring Nuance
-- :zap: I am currently a PhD in multiscale AI for material characterization (microscale to macroscale) at Aachen Univeristy
-- :zap: I studied AI and ML as Master's program at Aalto Univeristy
-- :zap: I am specialized in applied machine learning models for solving mechanical/material engineering problems
-- :zap: The engineering softwares that I use frequently include ABAQUS, DAMASK, COMSOL, Matlab, Dream3D, Finnish CSC HPC service and CAD softwares 
-<!-- 📫 Learn more about me on [My Portfolio](https://springnuance.github.io) :dart: -->
+- :zap: I am currently a PhD in multiscale AI for metal characterization and hydrogen embrittlement from microscale to macroscale at Aachen Univeristy
+- :zap: I studied AI and machine learning for my Master's program at Aalto Univeristy
+- :zap: I am experienced in applied machine learning models for solving mechanical/material engineering problems
+- :zap: On macroscale, I use Abaqus (Both Implicit and Explicit) mostly for research, and to some extent COMSOL Multiphysics
+- :zap: On microscale, I use MTEX in Matlab, Dream3D/Neper, crystal plasticity model such as DAMASK or CPFEM in Abaqus
+- :zap: For SWE side, I am experienced in optimization, workflow design, and supercomputing service.  
   
 ## 💼 Skills
 
