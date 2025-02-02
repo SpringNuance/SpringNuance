@@ -13,7 +13,7 @@
 - :zap: I studied AI and machine learning for my Master's program at Aalto Univeristy
 - :zap: I have adequate experience in applied exisitng ML models for solving/aiding material engineering problems
 - :zap: On macroscale, I mostly use Abaqus (Both Implicit and Explicit) for research, and to some extent COMSOL Multiphysics
-- :zap: On microscale, the standard pipeline is MTEX in Matlab, Dream3D/Neper, crystal plasticity model such as DAMASK or CPFEM in Abaqus
+- :zap: On microscale, the standard pipeline is MTEX in Matlab, Dream3D/Neper, crystal plasticity such as DAMASK or CPFEM
 - :zap: For SWE side, I have adequate experience in optimization, workflow design, and supercomputing service.  
 
 <!--
