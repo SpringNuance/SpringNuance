@@ -58,7 +58,6 @@ If you wish to access Private repositories, please send me a direct email for re
       | [AnotherRepo](https://github.com/example/anotherrepo) | abcdef |
       | [CoolProject](https://github.com/example/coolproject) | abcdef |
 
-
     </details>
 
   ---
@@ -83,6 +82,7 @@ If you wish to access Private repositories, please send me a direct email for re
       <summary>Course repositories</summary>
       
       <br>
+      
       | **MECHANICAL ENGINEERING**          | **THEORETICAL DATA SCIENCE**      |  **COMPUTER SCIENCE**                | **APPLIED DATA SCIENCE**                |
       |:-----------------------------------:|:---------------------------------:|:------------------------------------:|:----------------------------------------:
       | Statics and Dynamics                | Statistical Inference             | Data Structures And Algorithms       | SQLite/PostgresSQL Databases            |
