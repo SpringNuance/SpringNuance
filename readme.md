@@ -100,7 +100,10 @@ If you wish to access Private repositories, please send me a direct email for re
 
 <details>
 <summary>Language repositories</summary>
+</details>
 
+<details>
+<summary>Tutorial repositories</summary>
 </details>
 
 <details>
