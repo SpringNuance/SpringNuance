@@ -82,38 +82,52 @@ My Github has many repositories, so I categorize them below here for easier navi
 If you wish to access Private repositories, please send me a direct email for request.
 
 <details>
-<summary>🗃️ All repositories</summary>
+  <summary>📚 All repositories</summary>
 
-<details>
-<summary>Journal paper repositories</summary>
+  - <details>
+      <summary>Journal paper repositories</summary>
+      - Research Papers
+      - Conference Papers
+    </details>
+
+  - <details>
+      <summary>Project repositories</summary>
+      - AI Projects
+      - FEA Simulations
+    </details>
+
+  - <details>
+      <summary>Reference material repositories</summary>
+      - Books
+      - Documentation
+    </details>
+
+  - <details>
+      <summary>Course repositories</summary>
+      - Machine Learning
+      - Numerical Methods
+    </details>
+
+  - <details>
+      <summary>Language repositories</summary>
+      - Python
+      - C++
+    </details>
+
+  - <details>
+      <summary>Tutorial repositories</summary>
+      - GitHub Guides
+      - Web Development
+    </details>
+
+  - <details>
+      <summary>Forked repositories</summary>
+      - Interesting Projects
+      - Contributions
+    </details>
+
 </details>
 
-<details>
-<summary>Project repositories</summary>
-
-</details>
-
-<details>
-<summary>Reference material repositories</summary>
-</details>
-
-<details>
-<summary>Course repositories</summary>
-</details>
-
-<details>
-<summary>Language repositories</summary>
-</details>
-
-<details>
-<summary>Tutorial repositories</summary>
-</details>
-
-<details>
-<summary>Folked repositories</summary>
-</details>
-
-</details>
 ## :notebook_with_decorative_cover: My publications
 
 ### Check out my published paper
