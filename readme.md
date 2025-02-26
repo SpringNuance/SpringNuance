@@ -51,12 +51,12 @@ If you wish to access Private repositories, please send me a direct email for re
       <summary>Journal paper repositories</summary>
 
       <br>
-
-      | Name  | Description |
-      |--------|-------------|
-      | [RandomRepo](https://github.com/example/randomrepo) | abcdef |
-      | [AnotherRepo](https://github.com/example/anotherrepo) | abcdef |
-      | [CoolProject](https://github.com/example/coolproject) | abcdef |
+        
+      |  Name  |  Description |  Status  |
+      |:--------:|:--------------:|:----------:|
+      | [Design for additive manufacturing](https://github.com/SpringNuance/Design-for-Additive-Manufacturing)   | abcdef | Public, Completed |
+      | [AnotherRepo](https://github.com/example/anotherrepo) | abcdef | Public, Completed |
+      | [CoolProject](https://github.com/example/coolproject) | abcdef | Public, Completed |
 
     </details>
 
