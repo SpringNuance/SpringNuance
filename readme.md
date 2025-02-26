@@ -76,7 +76,7 @@ If you wish to access Private repositories, please send me a direct email for re
   - <details>
       <summary>Course repositories</summary>
       
-      </br>
+      <br>
       | **MECHANICAL ENGINEERING**          | **THEORETICAL DATA SCIENCE**      |  **COMPUTER SCIENCE**                | **APPLIED DATA SCIENCE**                |
       |:-----------------------------------:|:---------------------------------:|:------------------------------------:|:----------------------------------------:
       | Statics and Dynamics                | Statistical Inference             | Data Structures And Algorithms       | SQLite/PostgresSQL Databases            |
