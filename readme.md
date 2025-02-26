@@ -38,43 +38,6 @@
 </p>
 <br> 
 
-</details>
-
-<details>
-
-<summary>My university courses</summary>
-
-<br>
-
-
-
-<center>
-
-| **MECHANICAL ENGINEERING**          | **THEORETICAL DATA SCIENCE**      |  **COMPUTER SCIENCE**                | **APPLIED DATA SCIENCE**                |
-|:-----------------------------------:|:---------------------------------:|:------------------------------------:|:----------------------------------------:
-| Statics and Dynamics                | Statistical Inference             | Data Structures And Algorithms       | SQLite/PostgresSQL Databases            |
-| Solid Mechanics                     | Linear Algebra                    | Algorithmic Techniques Principles    | MYSQL for Data Analytics                |
-| Fluid Mechanics                     | Mathematical Optimization         | C/C++ Object-oriented Programming    | Business Anlytics I Basic               |
-| Material Science in Engineering     | Machine Learning                  | Theory Of Computation                | Business Analytics II Advanced          |
-| Thermodynamics and Heat Transfer    | Time Series Analysis              | Assembly Programming                 | Business Intelligence                   |
-| Finite Element Methods              | Multivariate Statistical Analysis | Operating Systems                    | Business Simulation                     |                 
-| Continuum Mechanics                 | Deep Learning                     | Concurrent Programming               | Speech Processing                       |
-| Computer-aided Tools in Engineering | Supervised ML methods             | Parallel Programming                 | Statistical Signal Processing           |
-| Numerical methods in Engineering    | Artificial Intelligence           | Computer Graphics                    | Speech Recognition                      |
-| Numerical Analysis                  | Bayesian Data Analysis            | Computer Networks                    | Statistical Natural Language Prcoessing |
-| Fracture Mechanics                  | Gaussian Processes                | Web Software Development             | Speech Processing Project               |
-| Computational Engineering Project   | Computer Vision                   | Information Security                 | Human-in-the-loop RL Molecular Design   |
-| Crystal Plasticity Thesis           | Advanced Probabilistic Methods    | Declarative Programming              | Computational Genomics                  |
-| Selection of Engineering Materials  | Large Scale Data Analysis         | Computational Social Science         | High-throughput Bioinformatics          |
-| Materials Safety                    | Methods Of Data Mining            | High Performance Computing           | Modeling Biological Networks            |
-| Machine Design                      | Reinforcement Learning            | Software Project I-II                | Stats Genetics & Personalised Medicine  |
-| Finite Element Analysis             | Stochastic Processes              | Cloud Software and System            | Information Visualization               |
-
-</center>
-
-</details>
-
-
 
  -->
 
@@ -82,10 +45,9 @@ My Github has many repositories, so I categorize them below here for easier navi
 If you wish to access Private repositories, please send me a direct email for request.
 
 <details>
-  
-  ---
-  <summary>📚 All repositories</summary>
 
+  <summary>📚 All repositories</summary>
+  
   ---
   - <details>
       <summary>Journal paper repositories</summary>
@@ -113,8 +75,29 @@ If you wish to access Private repositories, please send me a direct email for re
 
   - <details>
       <summary>Course repositories</summary>
-      - Machine Learning
-      - Numerical Methods
+        <center>
+        
+        | **MECHANICAL ENGINEERING**          | **THEORETICAL DATA SCIENCE**      |  **COMPUTER SCIENCE**                | **APPLIED DATA SCIENCE**                |
+        |:-----------------------------------:|:---------------------------------:|:------------------------------------:|:----------------------------------------:
+        | Statics and Dynamics                | Statistical Inference             | Data Structures And Algorithms       | SQLite/PostgresSQL Databases            |
+        | Solid Mechanics                     | Linear Algebra                    | Algorithmic Techniques Principles    | MYSQL for Data Analytics                |
+        | Fluid Mechanics                     | Mathematical Optimization         | C/C++ Object-oriented Programming    | Business Anlytics I Basic               |
+        | Material Science in Engineering     | Machine Learning                  | Theory Of Computation                | Business Analytics II Advanced          |
+        | Thermodynamics and Heat Transfer    | Time Series Analysis              | Assembly Programming                 | Business Intelligence                   |
+        | Finite Element Methods              | Multivariate Statistical Analysis | Operating Systems                    | Business Simulation                     |                 
+        | Continuum Mechanics                 | Deep Learning                     | Concurrent Programming               | Speech Processing                       |
+        | Computer-aided Tools in Engineering | Supervised ML methods             | Parallel Programming                 | Statistical Signal Processing           |
+        | Numerical methods in Engineering    | Artificial Intelligence           | Computer Graphics                    | Speech Recognition                      |
+        | Numerical Analysis                  | Bayesian Data Analysis            | Computer Networks                    | Statistical Natural Language Prcoessing |
+        | Fracture Mechanics                  | Gaussian Processes                | Web Software Development             | Speech Processing Project               |
+        | Computational Engineering Project   | Computer Vision                   | Information Security                 | Human-in-the-loop RL Molecular Design   |
+        | Crystal Plasticity Thesis           | Advanced Probabilistic Methods    | Declarative Programming              | Computational Genomics                  |
+        | Selection of Engineering Materials  | Large Scale Data Analysis         | Computational Social Science         | High-throughput Bioinformatics          |
+        | Materials Safety                    | Methods Of Data Mining            | High Performance Computing           | Modeling Biological Networks            |
+        | Machine Design                      | Reinforcement Learning            | Software Project I-II                | Stats Genetics & Personalised Medicine  |
+        | Finite Element Analysis             | Stochastic Processes              | Cloud Software and System            | Information Visualization               |
+        
+        </center>
     </details>
 
   ---
