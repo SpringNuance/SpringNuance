@@ -56,8 +56,8 @@ If you wish to access Private repositories, please send me a direct email for re
       |:--------:|:--------------:|:-------------:|
       | [Spring-Nuance-PhD-Conferences](https://github.com/SpringNuance/Spring-Nuance-PhD-Conferences) | private | Ongoing |
       | [Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation](https://github.com/SpringNuance/Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation) | private | Ongoing |
-      | [Journal-Paper-Hydrogen-TDS-Calibration](https://github.com/SpringNuance/Journal-Paper-Hydrogen-TDS-Calibration) | private | Ongoing |
-      | [Journal-Paper-Seq2seq-Flowing-Plasticity](https://github.com/SpringNuance/Journal-Paper-Seq2seq-Flowing-Plasticity) | private | Ongoing |
+      | [Journal-Hydrogen-TDS-Calibration](https://github.com/SpringNuance/Journal-Hydrogen-TDS-Calibration) | private | Ongoing |
+      | [Journal-Seq2seq-Flowing-Plasticity](https://github.com/SpringNuance/Journal-Seq2seq-Flowing-Plasticity) | private | Ongoing |
       | [Journal-General-Literature](https://github.com/SpringNuance/Journal-General-Literature) | public | Completed |
 
     </details>
