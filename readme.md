@@ -19,8 +19,6 @@
 <!--
 ## 💼 Skills
 
-:bulb: These are currently under my command: Python, R, C++, Stan, Julia, SQL and Bash
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,matlab,r,scala,cpp,postgres,bash&perline=9"/>
@@ -51,8 +49,16 @@ If you wish to access Private repositories, please send me a direct email for re
   ---
   - <details>
       <summary>Journal paper repositories</summary>
-      - Research Papers
-      - Conference Papers
+
+      <br>
+
+      | Name  | Description |
+      |--------|-------------|
+      | [RandomRepo](https://github.com/example/randomrepo) | abcdef |
+      | [AnotherRepo](https://github.com/example/anotherrepo) | abcdef |
+      | [CoolProject](https://github.com/example/coolproject) | abcdef |
+
+
     </details>
 
   ---
