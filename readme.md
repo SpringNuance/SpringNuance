@@ -124,6 +124,8 @@ If you wish to access Private repositories, please send me a direct email for re
       - Contributions
     </details>
 
+ ---
+
 </details>
 
 ## :notebook_with_decorative_cover: My publications
