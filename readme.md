@@ -83,14 +83,17 @@ If you wish to access Private repositories, please send me a direct email for re
 
 <details>
   
+  ---
   <summary>📚 All repositories</summary>
 
-
+  ---
   - <details>
       <summary>Journal paper repositories</summary>
       - Research Papers
       - Conference Papers
     </details>
+
+  ---
 
   - <details>
       <summary>Project repositories</summary>
@@ -98,11 +101,15 @@ If you wish to access Private repositories, please send me a direct email for re
       - FEA Simulations
     </details>
 
+  ---
+
   - <details>
       <summary>Reference material repositories</summary>
       - Books
       - Documentation
     </details>
+
+  ---
 
   - <details>
       <summary>Course repositories</summary>
@@ -110,17 +117,23 @@ If you wish to access Private repositories, please send me a direct email for re
       - Numerical Methods
     </details>
 
+  ---
+
   - <details>
       <summary>Language repositories</summary>
       - Python
       - C++
     </details>
 
+  ---
+
   - <details>
       <summary>Tutorial repositories</summary>
       - GitHub Guides
       - Web Development
     </details>
+
+  ---
 
   - <details>
       <summary>Forked repositories</summary>
