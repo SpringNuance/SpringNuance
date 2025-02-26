@@ -82,7 +82,9 @@ My Github has many repositories, so I categorize them below here for easier navi
 If you wish to access Private repositories, please send me a direct email for request.
 
 <details>
+  
   <summary>📚 All repositories</summary>
+
 
   - <details>
       <summary>Journal paper repositories</summary>
