@@ -73,8 +73,37 @@
 </center>
 
 </details>
-  
+
+
+
  -->
+
+My Github has many repositories, so I categorize them below here for easier navigation. 
+If you wish to access Private repositories, please send me a direct email for request.
+
+<details>
+Journal paper repositories
+</details>
+
+<details>
+Project repositories
+</details>
+
+<details>
+Reference material repositories
+</details>
+
+<details>
+Course repositories
+</details>
+
+<details>
+Language repositories
+</details>
+
+<details>
+Folked repositories
+</details>
 
 ## :notebook_with_decorative_cover: My publications
 
