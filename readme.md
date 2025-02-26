@@ -121,14 +121,6 @@ If you wish to access Private repositories, please send me a direct email for re
       - Web Development
     </details>
 
-  ---
-
-  - <details>
-      <summary>Forked repositories</summary>
-      - Interesting Projects
-      - Contributions
-    </details>
-
  ---
 
 </details>
