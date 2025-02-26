@@ -82,6 +82,9 @@ My Github has many repositories, so I categorize them below here for easier navi
 If you wish to access Private repositories, please send me a direct email for request.
 
 <details>
+<summary>🗃️ All repositories</summary>
+
+<details>
 <summary>Journal paper repositories</summary>
 </details>
 
@@ -110,6 +113,7 @@ If you wish to access Private repositories, please send me a direct email for re
 <summary>Folked repositories</summary>
 </details>
 
+</details>
 ## :notebook_with_decorative_cover: My publications
 
 ### Check out my published paper
