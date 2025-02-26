@@ -58,8 +58,7 @@ If you wish to access Private repositories, please send me a direct email for re
       | [Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation](https://github.com/SpringNuance/Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation) | private | Ongoing |
       | [Journal-Paper-Hydrogen-TDS-Calibration](https://github.com/SpringNuance/Journal-Paper-Hydrogen-TDS-Calibration) | private | Ongoing |
       | [Journal-Paper-Seq2seq-Flowing-Plasticity](https://github.com/SpringNuance/Journal-Paper-Seq2seq-Flowing-Plasticity) | private | Ongoing |
-      | [Abaqus-Macromechanics-Literature](https://github.com/SpringNuance/Abaqus-Macromechanics-Literature) | public | Ongoing |
-      | [RVE-Micromechanics-Literature](https://github.com/SpringNuance/RVE-Micromechanics-Literature) | public | Ongoing |
+      | [Journal-General-Literature](https://github.com/SpringNuance/Journal-General-Literature) | public | Completed |
 
     </details>
 
