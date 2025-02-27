@@ -324,7 +324,7 @@ If you wish to access Private repositories, please send me a direct email for re
       | [Tutorial-Abaqus-CAE](https://github.com/SpringNuance/Tutorial-Abaqus-CAE) | private | Completed |
       | [Tutorial-COMSOL-Multiphysics](https://github.com/SpringNuance/Tutorial-COMSOL-Multiphysics) | private | Completed |
       | [Tutorial-Paraview-VESTA-HDFView-VTK](https://github.com/SpringNuance/Tutorial-Paraview-VESTA-HDFView-VTK) | private | Completed |
-      | [Learn-MTEX-Dream3D-Neper-DAMASK](https://github.com/SpringNuance/Learn-MTEX-Dream3D-Neper-DAMASK) | private | Completed |
+      | [Tutorial-MTEX-Dream3D-Neper-DAMASK](https://github.com/SpringNuance/Tutorial-MTEX-Dream3D-Neper-DAMASK) | private | Completed |
       | [Tutorial-MATLAB-SIMULINK](https://github.com/SpringNuance/Tutorial-MATLAB-SIMULINK) | private | Completed |
       | [Tutorial-Altair-Hypermesh-Optistruct](https://github.com/SpringNuance/Tutorial-Altair-Hypermesh-Optistruct) | private | Completed |
       | [Tutorial-ANSYS-Fluent](https://github.com/SpringNuance/Tutorial-ANSYS-Fluent) | private | Completed |
@@ -332,8 +332,9 @@ If you wish to access Private repositories, please send me a direct email for re
       | [Tutorial-AutoCAD](https://github.com/SpringNuance/Tutorial-AutoCAD) | private | Completed |
       | [Tutorial-Solidworks](https://github.com/SpringNuance/Tutorial-Solidworks) | private | Completed |
       | [Tutorial-Ansys-Workbench](https://github.com/SpringNuance/Tutorial-Ansys-Workbench) | private | Completed |
+      | [Tutorial-CSC-HPC](https://github.com/SpringNuance/Tutorial-CSC-HPC) | private | Completed |
       | [Linux-Basics](https://github.com/SpringNuance/Linux-Basics) | public | Completed |
-      | [CSC-HPC-Tutorial](https://github.com/SpringNuance/CSC-HPC-Tutorial) | private | Completed |
+      
 
     </details>
 
