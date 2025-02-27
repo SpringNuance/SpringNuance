@@ -228,7 +228,7 @@ If you wish to access Private repositories, please send me a direct email for re
           | [Web-Software-Development](https://github.com/SpringNuance/Web-Software-Development) | private | Completed |
           | [Software-Testing-and-Quality-Assurance](https://github.com/SpringNuance/Software-Testing-and-Quality-Assurance) | public | Completed |
           | [Cloud-Software-And-System](https://github.com/SpringNuance/Cloud-Software-And-System) | private | Completed |
-          | [Business-Intelligence](https://github.com/SpringNuance/Business-Intelligence) | public | Completed |
+          | [Computer-Vision](https://github.com/SpringNuance/Computer-Vision) | public | Completed |
           | [Software-Project-F-Secure-ML-Pipeline](https://github.com/SpringNuance/Software-Project-F-Secure-ML-Pipeline) | private | Completed |
           | [Software-Project](https://github.com/SpringNuance/Software-Project) | public | Completed |
           | [Software-Project-F-Secure](https://github.com/SpringNuance/Software-Project-F-Secure) | private | Completed |
@@ -269,6 +269,7 @@ If you wish to access Private repositories, please send me a direct email for re
           | [Machine-Learning-Advanced-Probabilistic-Methods](https://github.com/SpringNuance/Machine-Learning-Advanced-Probabilistic-Methods) | public | Completed |
           | [Gaussian-Processes](https://github.com/SpringNuance/Gaussian-Processes) | public | Completed |
           | [Reinforcement-Learning](https://github.com/SpringNuance/Reinforcement-Learning) | public | Completed |
+          | [Large-Scale-Data-Analysis](https://github.com/SpringNuance/Large-Scale-Data-Analysis) | public | Completed |
           | [Special-Course-Bayesian-Workflows](https://github.com/SpringNuance/Special-Course-Bayesian-Workflows) | private | Completed |
           | [Bayesian-Data-Analysis](https://github.com/SpringNuance/Bayesian-Data-Analysis) | public | Completed |
           | [Methods-Of-Data-Mining](https://github.com/SpringNuance/Methods-Of-Data-Mining) | public | Completed |
@@ -288,26 +289,24 @@ If you wish to access Private repositories, please send me a direct email for re
           | Name | Visibility | Status |
           |:--------:|:--------------:|:-------------:|
           | [Human-In-The-Loop-De-Novo-Molecular-Design](https://github.com/SpringNuance/Human-In-The-Loop-De-Novo-Molecular-Design) | public | Completed |
-          | [Statistical-Natural-Language-Processing](https://github.com/SpringNuance/Statistical-Natural-Language-Processing) | public | Completed |
+          | [Statistical-Genetics-And-Personalised-Medicine](https://github.com/SpringNuance/Statistical-Genetics-And-Personalised-Medicine) | private | Completed |
+          | [Modeling-Biological-Networks](https://github.com/SpringNuance/Modeling-Biological-Networks) | private | Completed |
           | [SNLP-Project](https://github.com/SpringNuance/SNLP-Project) | public | Completed |
+          | [Statistical-Natural-Language-Processing](https://github.com/SpringNuance/Statistical-Natural-Language-Processing) | public | Completed |
+          | [Speech-Recognition](https://github.com/SpringNuance/Speech-Recognition) | public | Completed |
           | [Speech-Processing](https://github.com/SpringNuance/Speech-Processing) | public | Completed |
           | [Federated-Learning](https://github.com/SpringNuance/Federated-Learning) | public | Completed |
           | [Special-Course-In-MACADAMIA](https://github.com/SpringNuance/Special-Course-In-MACADAMIA) | private | Completed |
-          | [Modeling-Biological-Networks](https://github.com/SpringNuance/Modeling-Biological-Networks) | private | Completed |
-          | [Statistical-Genetics-And-Personalised-Medicine](https://github.com/SpringNuance/Statistical-Genetics-And-Personalised-Medicine) | private | Completed |
-          | [Business-Analytics-II](https://github.com/SpringNuance/Business-Analytics-II) | public | Completed |
           | [Special-Course-Large-Scale-Computing-And-Data-Analysis](https://github.com/SpringNuance/Special-Course-Large-Scale-Computing-And-Data-Analysis) | public | Completed |
           | [Special-Course-Machine-Learning-For-Climate-Action](https://github.com/SpringNuance/Special-Course-Machine-Learning-For-Climate-Action) | public | Completed |
-          | [Speech-Recognition](https://github.com/SpringNuance/Speech-Recognition) | public | Completed |
+          | [Business-Intelligence](https://github.com/SpringNuance/Business-Intelligence) | public | Completed |
+          | [Business-Analytics-II](https://github.com/SpringNuance/Business-Analytics-II) | public | Completed |
           | [Business-Analytics-I](https://github.com/SpringNuance/Business-Analytics-I) | public | Completed |
-          | [Computer-Vision](https://github.com/SpringNuance/Computer-Vision) | public | Completed |
-          | [Machine-Learning-With-Python](https://github.com/SpringNuance/Machine-Learning-With-Python) | public | Completed |
-          | [Large-Scale-Data-Analysis](https://github.com/SpringNuance/Large-Scale-Data-Analysis) | public | Completed |
-          | [Information-Visualization](https://github.com/SpringNuance/Information-Visualization) | public | Completed |
-          | [Computational-Social-Science](https://github.com/SpringNuance/Computational-Social-Science) | public | Completed |
-          | [Deep-Learning-With-Python](https://github.com/SpringNuance/Deep-Learning-With-Python) | public | Completed |
           | [MySQL-For-Data-Analytics](https://github.com/SpringNuance/MySQL-For-Data-Analytics) | public | Completed |
-
+          | [Computational-Social-Science](https://github.com/SpringNuance/Computational-Social-Science) | public | Completed |
+          | [Information-Visualization](https://github.com/SpringNuance/Information-Visualization) | public | Completed |
+          | [Deep-Learning-With-Python](https://github.com/SpringNuance/Deep-Learning-With-Python) | public | Completed |
+          | [Machine-Learning-With-Python](https://github.com/SpringNuance/Machine-Learning-With-Python) | public | Completed |
         </details>
         
     </details>
@@ -322,16 +321,16 @@ If you wish to access Private repositories, please send me a direct email for re
       | Name | Visibility | Status |
       |:--------:|:--------------:|:-------------:|
       | [Tutorial-Abaqus-CAE](https://github.com/SpringNuance/Tutorial-Abaqus-CAE) | private | Completed |
-      | [Tutorial-COMSOL-Multiphysics](https://github.com/SpringNuance/Tutorial-COMSOL-Multiphysics) | private | Completed |
-      | [Tutorial-Paraview-VESTA-HDFView-VTK](https://github.com/SpringNuance/Tutorial-Paraview-VESTA-HDFView-VTK) | private | Completed |
-      | [Tutorial-MTEX-Dream3D-Neper-DAMASK](https://github.com/SpringNuance/Tutorial-MTEX-Dream3D-Neper-DAMASK) | private | Completed |
-      | [Tutorial-MATLAB-SIMULINK](https://github.com/SpringNuance/Tutorial-MATLAB-SIMULINK) | private | Completed |
-      | [Tutorial-Altair-Hypermesh-Optistruct](https://github.com/SpringNuance/Tutorial-Altair-Hypermesh-Optistruct) | private | Completed |
+      | [Tutorial-Ansys-Workbench](https://github.com/SpringNuance/Tutorial-Ansys-Workbench) | private | Completed |
       | [Tutorial-ANSYS-Fluent](https://github.com/SpringNuance/Tutorial-ANSYS-Fluent) | private | Completed |
-      | [Tutorial-GD-and-T](https://github.com/SpringNuance/Tutorial-GD-and-T) | private | Completed |
+      | [Tutorial-COMSOL-Multiphysics](https://github.com/SpringNuance/Tutorial-COMSOL-Multiphysics) | private | Completed |
+      | [Tutorial-Altair-Hypermesh-Optistruct](https://github.com/SpringNuance/Tutorial-Altair-Hypermesh-Optistruct) | private | Completed |
+      | [Tutorial-MTEX-Dream3D-Neper-DAMASK](https://github.com/SpringNuance/Tutorial-MTEX-Dream3D-Neper-DAMASK) | private | Completed |
+      | [Tutorial-Paraview-VESTA-HDFView-VTK](https://github.com/SpringNuance/Tutorial-Paraview-VESTA-HDFView-VTK) | private | Completed |
+      | [Tutorial-MATLAB-SIMULINK](https://github.com/SpringNuance/Tutorial-MATLAB-SIMULINK) | private | Completed |
       | [Tutorial-AutoCAD](https://github.com/SpringNuance/Tutorial-AutoCAD) | private | Completed |
       | [Tutorial-Solidworks](https://github.com/SpringNuance/Tutorial-Solidworks) | private | Completed |
-      | [Tutorial-Ansys-Workbench](https://github.com/SpringNuance/Tutorial-Ansys-Workbench) | private | Completed |
+      | [Tutorial-GD-and-T](https://github.com/SpringNuance/Tutorial-GD-and-T) | private | Completed |
       | [Tutorial-CSC-HPC](https://github.com/SpringNuance/Tutorial-CSC-HPC) | private | Completed |
       | [Linux-Basics](https://github.com/SpringNuance/Linux-Basics) | public | Completed |
       
@@ -348,10 +347,10 @@ If you wish to access Private repositories, please send me a direct email for re
       | Name | Visibility | Status |
       |:--------:|:--------------:|:-------------:|
       | [Academic-Writing-Instructions-And-Tips](https://github.com/SpringNuance/Academic-Writing-Instructions-And-Tips) | private | Completed |
-      | [Integrated-Oral-And-Written-Skills](https://github.com/SpringNuance/Integrated-Oral-And-Written-Skills) | public | Completed |
       | [JLPT-Materials](https://github.com/SpringNuance/JLPT-Materials) | public | Completed |
       | [Goethe-Zertifikat-Materials](https://github.com/SpringNuance/Goethe-Zertifikat-Materials) | public | Completed |
       | [YKI-Materials](https://github.com/SpringNuance/YKI-Materials) | public | Completed |
+      | [Integrated-Oral-And-Written-Skills](https://github.com/SpringNuance/Integrated-Oral-And-Written-Skills) | public | Completed |
       
     </details>
     
