@@ -185,39 +185,38 @@ My Github has many repositories, so I categorize them below here for easier navi
           
           | Name | Visibility | Status |
           |:--------:|:--------------:|:-------------:|
-          | [Design-for-Additive-Manufacturing](https://github.com/SpringNuance/Design-for-Additive-Manufacturing) | public | Completed |
-          | [Engineering-Metals-And-Alloys](https://github.com/SpringNuance/Engineering-Metals-And-Alloys) | public | Completed |
-          | [Fluid-Mechanics](https://github.com/SpringNuance/Fluid-Mechanics) | public | Completed |
-          | [Mechatronic-Basics](https://github.com/SpringNuance/Mechatronic-Basics) | public | Completed |
-          | [Beam-Plate-And-Shell-Models](https://github.com/SpringNuance/Beam-Plate-And-Shell-Models) | public | Completed |
-          | [Modeling-In-Applied-Mechanics](https://github.com/SpringNuance/Modeling-In-Applied-Mechanics) | public | Completed |
-          | [Finite-Element-Methods-In-Solids](https://github.com/SpringNuance/Finite-Element-Methods-In-Solids) | public | Completed |
-          | [Finite-Element-Analysis](https://github.com/SpringNuance/Finite-Element-Analysis) | public | Completed |
-          | [Machining-Processes](https://github.com/SpringNuance/Machining-Processes) | private | Completed |
-          | [Materials-Characterization-Laboratory-Course](https://github.com/SpringNuance/Materials-Characterization-Laboratory-Course) | public | Completed |
-          | [Mechatronic-Machine-Design](https://github.com/SpringNuance/Mechatronic-Machine-Design) | public | Completed |
-          | [Finite-Element-And-Finite-Difference-Methods](https://github.com/SpringNuance/Finite-Element-And-Finite-Difference-Methods) | public | Completed |
-          | [Fatigue-Of-Structures](https://github.com/SpringNuance/Fatigue-Of-Structures) | public | Completed |
-          | [Material-Modelling-In-Civil-Engineering](https://github.com/SpringNuance/Material-Modelling-In-Civil-Engineering) | public | Completed |
-          | [Mechanical-Testing-Of-Materials](https://github.com/SpringNuance/Mechanical-Testing-Of-Materials) | public | Completed |
-          | [Production-Systems-Modelling](https://github.com/SpringNuance/Production-Systems-Modelling) | public | Completed |
-          | [Computational-Fluid-Dynamics](https://github.com/SpringNuance/Computational-Fluid-Dynamics) | private | Completed |
-          | [Thin-walled-Structures](https://github.com/SpringNuance/Thin-walled-Structures) | public | Completed |
-          | [Foundations-Of-Continuum-Mechanics](https://github.com/SpringNuance/Foundations-Of-Continuum-Mechanics) | public | Completed |
-          | [Electromagnetism](https://github.com/SpringNuance/Electromagnetism) | public | Completed |
-          | [Industrial-Engineering-And-Management](https://github.com/SpringNuance/Industrial-Engineering-And-Management) | public | Completed |
-          | [Materials-Science-And-Engineering](https://github.com/SpringNuance/Materials-Science-And-Engineering) | public | Completed |
           | [Machine-Design](https://github.com/SpringNuance/Machine-Design) | public | Completed |
-          | [Thermodynamics-And-Heat-Transfer](https://github.com/SpringNuance/Thermodynamics-And-Heat-Transfer) | public | Completed |
-          | [Statics-And-Dynamics](https://github.com/SpringNuance/Statics-And-Dynamics) | public | Completed |
-          | [Foundations-Of-Solid-Mechanics](https://github.com/SpringNuance/Foundations-Of-Solid-Mechanics) | public | Completed |
-          | [Basic-Course-On-Fluid-Mechanics](https://github.com/SpringNuance/Basic-Course-On-Fluid-Mechanics) | public | Completed |
+          | [Mechatronic-Machine-Design](https://github.com/SpringNuance/Mechatronic-Machine-Design) | public | Completed |
+          | [Mechatronic-Basics](https://github.com/SpringNuance/Mechatronic-Basics) | public | Completed |
           | [Computer-Aided-Tools-In-Engineering](https://github.com/SpringNuance/Computer-Aided-Tools-In-Engineering) | public | Completed |
-          | [Fracture-Mechanics](https://github.com/SpringNuance/Fracture-Mechanics) | public | Completed |
-          | [Materials-Safety](https://github.com/SpringNuance/Materials-Safety) | public | Completed |
-          | [Selection-Of-Engineering-Materials](https://github.com/SpringNuance/Selection-Of-Engineering-Materials) | public | Completed |
+          | [Design-for-Additive-Manufacturing](https://github.com/SpringNuance/Design-for-Additive-Manufacturing) | public | Completed |
+          | [Machining-Processes](https://github.com/SpringNuance/Machining-Processes) | private | Completed |
+          | [Production-Systems-Modelling](https://github.com/SpringNuance/Production-Systems-Modelling) | public | Completed |
           | [Laminated-Composite-and-Functionally-Graded-Materials](https://github.com/SpringNuance/Laminated-Composite-and-Functionally-Graded-Materials) | public | Completed |
-
+          | [Thin-walled-Structures](https://github.com/SpringNuance/Thin-walled-Structures) | public | Completed |
+          | [Fatigue-Of-Structures](https://github.com/SpringNuance/Fatigue-Of-Structures) | public | Completed |
+          | [Fracture-Mechanics](https://github.com/SpringNuance/Fracture-Mechanics) | public | Completed |
+          | [Material-Modelling-In-Civil-Engineering](https://github.com/SpringNuance/Material-Modelling-In-Civil-Engineering) | public | Completed |
+          | [Modeling-In-Applied-Mechanics](https://github.com/SpringNuance/Modeling-In-Applied-Mechanics) | public | Completed |
+          | [Beam-Plate-And-Shell-Models](https://github.com/SpringNuance/Beam-Plate-And-Shell-Models) | public | Completed |
+          | [Finite-Element-Analysis](https://github.com/SpringNuance/Finite-Element-Analysis) | public | Completed |
+          | [Finite-Element-Methods-In-Solids](https://github.com/SpringNuance/Finite-Element-Methods-In-Solids) | public | Completed |
+          | [Finite-Element-And-Finite-Difference-Methods](https://github.com/SpringNuance/Finite-Element-And-Finite-Difference-Methods) | public | Completed |
+          | [Foundations-Of-Continuum-Mechanics](https://github.com/SpringNuance/Foundations-Of-Continuum-Mechanics) | public | Completed |
+          | [Foundations-Of-Solid-Mechanics](https://github.com/SpringNuance/Foundations-Of-Solid-Mechanics) | public | Completed |
+          | [Electromagnetism](https://github.com/SpringNuance/Electromagnetism) | public | Completed |
+          | [Thermodynamics-And-Heat-Transfer](https://github.com/SpringNuance/Thermodynamics-And-Heat-Transfer) | public | Completed |
+          | [Computational-Fluid-Dynamics](https://github.com/SpringNuance/Computational-Fluid-Dynamics) | private | Completed |
+          | [Fluid-Mechanics](https://github.com/SpringNuance/Fluid-Mechanics) | public | Completed |
+          | [Basic-Course-On-Fluid-Mechanics](https://github.com/SpringNuance/Basic-Course-On-Fluid-Mechanics) | public | Completed |
+          | [Engineering-Metals-And-Alloys](https://github.com/SpringNuance/Engineering-Metals-And-Alloys) | public | Completed |
+          | [Selection-Of-Engineering-Materials](https://github.com/SpringNuance/Selection-Of-Engineering-Materials) | public | Completed |
+          | [Mechanical-Testing-Of-Materials](https://github.com/SpringNuance/Mechanical-Testing-Of-Materials) | public | Completed |
+          | [Materials-Characterization-Laboratory-Course](https://github.com/SpringNuance/Materials-Characterization-Laboratory-Course) | public | Completed |
+          | [Materials-Safety](https://github.com/SpringNuance/Materials-Safety) | public | Completed |
+          | [Materials-Science-And-Engineering](https://github.com/SpringNuance/Materials-Science-And-Engineering) | public | Completed |
+          | [Statics-And-Dynamics](https://github.com/SpringNuance/Statics-And-Dynamics) | public | Completed |
+          | [Industrial-Engineering-And-Management](https://github.com/SpringNuance/Industrial-Engineering-And-Management) | public | Completed |
         </details>
 
       - <details>
