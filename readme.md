@@ -156,18 +156,20 @@ If you wish to access Private repositories, please send me a direct email for re
           
           | Name | Visibility | Status |
           |:--------:|:--------------:|:-------------:|
-          | [Statistical-Inference](https://github.com/SpringNuance/Statistical-Inference) | public | Completed |
           | [Quantum-Mechanics](https://github.com/SpringNuance/Quantum-Mechanics) | public | Completed |
+          | [Quantum-Information](https://github.com/SpringNuance/Quantum-Information) | public | Completed |
           | [Partial-Differential-Equations](https://github.com/SpringNuance/Partial-Differential-Equations) | public | Completed |
           | [Computational-Methods-In-Stochastics](https://github.com/SpringNuance/Computational-Methods-In-Stochastics) | public | Completed |
-          | [Multivariate-Statistical-Analysis](https://github.com/SpringNuance/Multivariate-Statistical-Analysis) | public | Completed |
-          | [Convex-Optimization](https://github.com/SpringNuance/Convex-Optimization) | public | Completed |
           | [Stochastic-Processes](https://github.com/SpringNuance/Stochastic-Processes) | public | Completed |
-          | [Quantum-Information](https://github.com/SpringNuance/Quantum-Information) | public | Completed |
-          | [First-Course-In-Probability-And-Statistics](https://github.com/SpringNuance/First-Course-In-Probability-And-Statistics) | public | Completed |
+          | [Multivariate-Statistical-Analysis](https://github.com/SpringNuance/Multivariate-Statistical-Analysis) | public | Completed |
+          | [Prediction-And-Time-Series-Analysis](https://github.com/SpringNuance/Prediction-And-Time-Series-Analysis) | public | Completed |
+          | [Statistical-Inference](https://github.com/SpringNuance/Statistical-Inference) | public | Completed |
+          | [Convex-Optimization](https://github.com/SpringNuance/Convex-Optimization) | public | Completed |
+          | [Numerical-Methods-In-Engineering](https://github.com/SpringNuance/Numerical-Methods-In-Engineering) | public | Completed |
+          | [Numerical-Analysis](https://github.com/SpringNuance/Numerical-Analysis) | public | Completed |
           | [Introduction-To-Optimization](https://github.com/SpringNuance/Introduction-To-Optimization) | public | Completed |
           | [Foundations-Of-Discrete-Mathematics](https://github.com/SpringNuance/Foundations-Of-Discrete-Mathematics) | public | Completed |
-          | [Numerical-Analysis](https://github.com/SpringNuance/Numerical-Analysis) | public | Completed |
+          | [First-Course-In-Probability-And-Statistics](https://github.com/SpringNuance/First-Course-In-Probability-And-Statistics) | public | Completed |
           | [Linear-Algebra-And-Matrix-Algebra](https://github.com/SpringNuance/Linear-Algebra-And-Matrix-Algebra) | public | Completed |
           | [Basic-Calculus](https://github.com/SpringNuance/Basic-Calculus) | public | Completed |
 
@@ -198,7 +200,7 @@ If you wish to access Private repositories, please send me a direct email for re
           | [Mechanical-Testing-Of-Materials](https://github.com/SpringNuance/Mechanical-Testing-Of-Materials) | public | Completed |
           | [Production-Systems-Modelling](https://github.com/SpringNuance/Production-Systems-Modelling) | public | Completed |
           | [Computational-Fluid-Dynamics](https://github.com/SpringNuance/Computational-Fluid-Dynamics) | private | Completed |
-          | [Numerical-Methods-In-Engineering](https://github.com/SpringNuance/Numerical-Methods-In-Engineering) | public | Completed |
+          
           | [Thin-walled-Structures](https://github.com/SpringNuance/Thin-walled-Structures) | public | Completed |
           | [Foundations-Of-Continuum-Mechanics](https://github.com/SpringNuance/Foundations-Of-Continuum-Mechanics) | public | Completed |
           | [Electromagnetism](https://github.com/SpringNuance/Electromagnetism) | public | Completed |
@@ -304,7 +306,7 @@ If you wish to access Private repositories, please send me a direct email for re
           | [Large-Scale-Data-Analysis](https://github.com/SpringNuance/Large-Scale-Data-Analysis) | public | Completed |
           | [Information-Visualization](https://github.com/SpringNuance/Information-Visualization) | public | Completed |
           | [Computational-Social-Science](https://github.com/SpringNuance/Computational-Social-Science) | public | Completed |
-          | [Prediction-And-Time-Series-Analysis](https://github.com/SpringNuance/Prediction-And-Time-Series-Analysis) | public | Completed |
+          
           | [Deep-Learning-With-Python](https://github.com/SpringNuance/Deep-Learning-With-Python) | public | Completed |
           | [MySQL-For-Data-Analytics](https://github.com/SpringNuance/MySQL-For-Data-Analytics) | public | Completed |
 
