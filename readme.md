@@ -47,69 +47,71 @@ My Github has many repositories, so I categorize them below here for easier navi
   
   ---
   - <details>
-      <summary>Journal paper repositories</summary>
+      <summary>Research & project repositories</summary>
 
-      <br>
+      - <details>
+          <summary>Journal manuscripts</summary>
+
+          <br>
         
-      | Name | Visibility | Status |
-      |:--------:|:--------------:|:-------------:|
-      | [Spring-Nuance-PhD-Conferences](https://github.com/SpringNuance/Spring-Nuance-PhD-Conferences) | private | Ongoing |
-      | [Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation](https://github.com/SpringNuance/Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation) | private | Ongoing |
-      | [Journal-CP1000-Hydrogen-Embrittlement-Modelling](https://github.com/SpringNuance/Journal-CP1000-Hydrogen-Embrittlement-Modelling) | private | Ongoing |
-      | [Journal-Hydrogen-TDS-Calibration](https://github.com/SpringNuance/Journal-Hydrogen-TDS-Calibration) | private | Ongoing |
-      | [Journal-Seq2seq-Anisotropic-Plasticity](https://github.com/SpringNuance/Journal-Seq2seq-Anisotropic-Plasticity) | private | Ongoing |
-      | [Journal-Seq2seq-Isotropic-Plasticity](https://github.com/SpringNuance/Journal-Seq2seq-Isotropic-Plasticity) | private | Ongoing |
-      | [Journal-Crystal-Plasticity-Parameter-Calibration](https://github.com/SpringNuance/Journal-Crystal-Plasticity-Parameter-Calibration) | private | Ongoing |
-      | [Journal-General-Literature](https://github.com/SpringNuance/Journal-General-Literature) | public | Completed |
+          | Name | Visibility | Status |
+          |:--------:|:--------------:|:-------------:|
+          | [Spring-Nuance-PhD-Conferences](https://github.com/SpringNuance/Spring-Nuance-PhD-Conferences) | private | Ongoing |
+          | [Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation](https://github.com/SpringNuance/Journal-Strain-Gradient-Crystal-Plasticity-Nanoindentation) | private | Ongoing |
+          | [Journal-CP1000-Hydrogen-Embrittlement-Modelling](https://github.com/SpringNuance/Journal-CP1000-Hydrogen-Embrittlement-Modelling) | private | Ongoing |
+          | [Journal-Hydrogen-TDS-Calibration](https://github.com/SpringNuance/Journal-Hydrogen-TDS-Calibration) | private | Ongoing |
+          | [Journal-Seq2seq-Anisotropic-Plasticity](https://github.com/SpringNuance/Journal-Seq2seq-Anisotropic-Plasticity) | private | Ongoing |
+          | [Journal-Seq2seq-Isotropic-Plasticity](https://github.com/SpringNuance/Journal-Seq2seq-Isotropic-Plasticity) | private | Ongoing |
+          | [Journal-Crystal-Plasticity-Parameter-Calibration](https://github.com/SpringNuance/Journal-Crystal-Plasticity-Parameter-Calibration) | private | Ongoing |
+          | [Journal-General-Literature](https://github.com/SpringNuance/Journal-General-Literature) | public | Completed |
 
+        </details>
+
+      - <details>
+          <summary>Projects</summary>
+
+          <br>
+        
+          | Name | Visibility | Status |
+          |:--------:|:--------------:|:-------------:|
+          | [Master-Thesis-Hydrogen-Official](https://github.com/SpringNuance/Master-Thesis-Hydrogen-Official) | public | Completed |
+          | [Hydrogen-Embrittlement-Subroutine-Aachen](https://github.com/SpringNuance/Hydrogen-Embrittlement-Subroutine-Aachen) | private | Ongoing |
+          | [Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project](https://github.com/SpringNuance/Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project) | private | Ongoing |
+          | [Abaqus-Hardening-Seq-2-Seq-Project](https://github.com/SpringNuance/Abaqus-Hardening-Seq-2-Seq-Project) | private | Ongoing |
+          | [Abaqus-Hydrogen-Embrittlement-X70-Project](https://github.com/SpringNuance/Abaqus-Hydrogen-Embrittlement-X70-Project) | private | Ongoing |
+          | [Abaqus-Crystal-Plasticity-Parameter-Calibration-Project](https://github.com/SpringNuance/Abaqus-Crystal-Plasticity-Parameter-Calibration-Project) | private | Ongoing |
+          | [Abaqus-CPFEM-Workflow](https://github.com/SpringNuance/Abaqus-CPFEM-Workflow) | public | Ongoing |
+          | [Abaqus-TDS-Hydrogen-Parameter-Calibration-Project](https://github.com/SpringNuance/Abaqus-TDS-Hydrogen-Parameter-Calibration-Project) | public | Completed |
+          | [Phase-Field-Case-Study-Notched-Plate](https://github.com/SpringNuance/Phase-Field-Case-Study-Notched-Plate) | public | Completed |
+          | [Abaqus-UEL-von-Mises-plasticity](https://github.com/SpringNuance/Abaqus-UEL-von-Mises-plasticity) | public | Completed |
+          | [Hydrogen-Diffusion-Results-Replication](https://github.com/SpringNuance/Hydrogen-Diffusion-Results-Replication) | private | Completed |
+          | [Abaqus-Hardening-Swift-Voce-Project](https://github.com/SpringNuance/Abaqus-Hardening-Swift-Voce-Project) | private | Ongoing |
+          | [Abaqus-Fracture-Project](https://github.com/SpringNuance/Abaqus-Fracture-Project) | private | Completed |
+          | [Abaqus-Nanoindentation-Project](https://github.com/SpringNuance/Abaqus-Nanoindentation-Project) | private | Ongoing |
+          | [VUMAT-Abaqus-ML-Integration](https://github.com/SpringNuance/VUMAT-Abaqus-ML-Integration) | public | Completed |
+          | [Fitting-Distribution-Calculator](https://github.com/SpringNuance/Fitting-Distribution-Calculator) | public | Completed |
+          | [COMSOL-Hydrogen-Diffusion-Simulation](https://github.com/SpringNuance/COMSOL-Hydrogen-Diffusion-Simulation) | public | Ongoing |
+          | [Computational-Engineering-Project](https://github.com/SpringNuance/Computational-Engineering-Project) | private | Completed |
+          | [Bachelor-Thesis-And-Seminar](https://github.com/SpringNuance/Bachelor-Thesis-And-Seminar) | private | Completed |
+          | [Reinforcement-Learning-Project](https://github.com/SpringNuance/Reinforcement-Learning-Project) | public | Completed |
+          | [kaldi-ASR](https://github.com/SpringNuance/kaldi-ASR) | public | Completed |
+          | [wav2vec2_librispeech](https://github.com/SpringNuance/wav2vec2_librispeech) | public | Completed |
+          | [DAMASK3-Processing-Project](https://github.com/SpringNuance/DAMASK3-Processing-Project) | public | Completed |
+          | [RVE-Micromechanics-Project](https://github.com/SpringNuance/RVE-Micromechanics-Project) | private | Completed |
+          | [Wasserstein-GAN-RVE-generation](https://github.com/SpringNuance/Wasserstein-GAN-RVE-generation) | private | Completed |
+          | [Crystal-Plasticity-COE-Project](https://github.com/SpringNuance/Crystal-Plasticity-COE-Project) | private | Completed |
+          | [Bayesian-Data-Analysis-Project](https://github.com/SpringNuance/Bayesian-Data-Analysis-Project) | public | Completed |
+          | [Crystal-Plasticity-Project-Bachelor-Thesis](https://github.com/SpringNuance/Crystal-Plasticity-Project-Bachelor-Thesis) | private | Completed |
+          | [Crystal-Plasticity-GUI-Bachelor-Thesis](https://github.com/SpringNuance/Crystal-Plasticity-GUI-Bachelor-Thesis) | private | Completed |
+          | [Chat-Application-CLI](https://github.com/SpringNuance/Chat-Application-CLI) | public | Completed |
+          | [Chat-Application-GUI](https://github.com/SpringNuance/Chat-Application-GUI) | public | Completed |
+          | [Junior-Software-Engineering-Task](https://github.com/SpringNuance/Junior-Software-Engineering-Task) | public | Completed |
+          | [Dungeon-Crawler](https://github.com/SpringNuance/Dungeon-Crawler) | public | Completed |
+
+        </details>
+        
     </details>
-
-  ---
-
-  - <details>
-      <summary>Project repositories</summary>
-
-      <br>
-      
-      | Name | Visibility | Status |
-      |:--------:|:--------------:|:-------------:|
-      | [Master-Thesis-Hydrogen-Official](https://github.com/SpringNuance/Master-Thesis-Hydrogen-Official) | public | Completed |
-      | [Hydrogen-Embrittlement-Subroutine-Aachen](https://github.com/SpringNuance/Hydrogen-Embrittlement-Subroutine-Aachen) | private | Ongoing |
-      | [Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project](https://github.com/SpringNuance/Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project) | private | Ongoing |
-      | [Abaqus-Hardening-Seq-2-Seq-Project](https://github.com/SpringNuance/Abaqus-Hardening-Seq-2-Seq-Project) | private | Ongoing |
-      | [Abaqus-Hydrogen-Embrittlement-X70-Project](https://github.com/SpringNuance/Abaqus-Hydrogen-Embrittlement-X70-Project) | private | Ongoing |
-      | [Abaqus-Crystal-Plasticity-Parameter-Calibration-Project](https://github.com/SpringNuance/Abaqus-Crystal-Plasticity-Parameter-Calibration-Project) | private | Ongoing |
-      | [Abaqus-CPFEM-Workflow](https://github.com/SpringNuance/Abaqus-CPFEM-Workflow) | public | Ongoing |
-      | [Abaqus-TDS-Hydrogen-Parameter-Calibration-Project](https://github.com/SpringNuance/Abaqus-TDS-Hydrogen-Parameter-Calibration-Project) | public | Completed |
-      | [Phase-Field-Case-Study-Notched-Plate](https://github.com/SpringNuance/Phase-Field-Case-Study-Notched-Plate) | public | Completed |
-      | [Abaqus-UEL-von-Mises-plasticity](https://github.com/SpringNuance/Abaqus-UEL-von-Mises-plasticity) | public | Completed |
-      | [Hydrogen-Diffusion-Results-Replication](https://github.com/SpringNuance/Hydrogen-Diffusion-Results-Replication) | private | Completed |
-      | [Abaqus-Hardening-Swift-Voce-Project](https://github.com/SpringNuance/Abaqus-Hardening-Swift-Voce-Project) | private | Ongoing |
-      | [Abaqus-Fracture-Project](https://github.com/SpringNuance/Abaqus-Fracture-Project) | private | Completed |
-      | [Abaqus-Nanoindentation-Project](https://github.com/SpringNuance/Abaqus-Nanoindentation-Project) | private | Ongoing |
-      | [VUMAT-Abaqus-ML-Integration](https://github.com/SpringNuance/VUMAT-Abaqus-ML-Integration) | public | Completed |
-      | [Fitting-Distribution-Calculator](https://github.com/SpringNuance/Fitting-Distribution-Calculator) | public | Completed |
-      | [COMSOL-Hydrogen-Diffusion-Simulation](https://github.com/SpringNuance/COMSOL-Hydrogen-Diffusion-Simulation) | public | Ongoing |
-      | [Computational-Engineering-Project](https://github.com/SpringNuance/Computational-Engineering-Project) | private | Completed |
-      | [Bachelor-Thesis-And-Seminar](https://github.com/SpringNuance/Bachelor-Thesis-And-Seminar) | private | Completed |
-      | [Reinforcement-Learning-Project](https://github.com/SpringNuance/Reinforcement-Learning-Project) | public | Completed |
-      | [kaldi-ASR](https://github.com/SpringNuance/kaldi-ASR) | public | Completed |
-      | [wav2vec2_librispeech](https://github.com/SpringNuance/wav2vec2_librispeech) | public | Completed |
-      | [DAMASK3-Processing-Project](https://github.com/SpringNuance/DAMASK3-Processing-Project) | public | Completed |
-      | [RVE-Micromechanics-Project](https://github.com/SpringNuance/RVE-Micromechanics-Project) | private | Completed |
-      | [Wasserstein-GAN-RVE-generation](https://github.com/SpringNuance/Wasserstein-GAN-RVE-generation) | private | Completed |
-      | [Crystal-Plasticity-COE-Project](https://github.com/SpringNuance/Crystal-Plasticity-COE-Project) | private | Completed |
-      | [Bayesian-Data-Analysis-Project](https://github.com/SpringNuance/Bayesian-Data-Analysis-Project) | public | Completed |
-      | [Crystal-Plasticity-Project-Bachelor-Thesis](https://github.com/SpringNuance/Crystal-Plasticity-Project-Bachelor-Thesis) | private | Completed |
-      | [Crystal-Plasticity-GUI-Bachelor-Thesis](https://github.com/SpringNuance/Crystal-Plasticity-GUI-Bachelor-Thesis) | private | Completed |
-      | [Chat-Application-CLI](https://github.com/SpringNuance/Chat-Application-CLI) | public | Completed |
-      | [Chat-Application-GUI](https://github.com/SpringNuance/Chat-Application-GUI) | public | Completed |
-      | [Junior-Software-Engineering-Task](https://github.com/SpringNuance/Junior-Software-Engineering-Task) | public | Completed |
-      | [Dungeon-Crawler](https://github.com/SpringNuance/Dungeon-Crawler) | public | Completed |
-      
     
-    </details>
-
   ---
 
   - <details>
