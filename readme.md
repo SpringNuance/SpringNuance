@@ -227,35 +227,36 @@ My Github has many repositories, so I categorize them below here for easier navi
           
           | Name | Visibility | Status |
           |:--------:|:--------------:|:-------------:|
-          | [Web-Software-Development](https://github.com/SpringNuance/Web-Software-Development) | private | Completed |
+          | [Software-Architectures](https://github.com/SpringNuance/Software-Architectures) | private | Completed |
           | [Software-Testing-and-Quality-Assurance](https://github.com/SpringNuance/Software-Testing-and-Quality-Assurance) | public | Completed |
           | [Cloud-Software-And-System](https://github.com/SpringNuance/Cloud-Software-And-System) | private | Completed |
-          | [Computer-Vision](https://github.com/SpringNuance/Computer-Vision) | public | Completed |
-          | [Software-Project-F-Secure-ML-Pipeline](https://github.com/SpringNuance/Software-Project-F-Secure-ML-Pipeline) | private | Completed |
           | [Software-Project](https://github.com/SpringNuance/Software-Project) | public | Completed |
           | [Software-Project-F-Secure](https://github.com/SpringNuance/Software-Project-F-Secure) | private | Completed |
-          | [Software-Architectures](https://github.com/SpringNuance/Software-Architectures) | private | Completed |
+          | [Software-Project-F-Secure-ML-Pipeline](https://github.com/SpringNuance/Software-Project-F-Secure-ML-Pipeline) | private | Completed |
+          | [Software-Engineering](https://github.com/SpringNuance/Software-Engineering) | private | Completed |
+          | [Programming-Parallel-Supercomputers](https://github.com/SpringNuance/Programming-Parallel-Supercomputers) | public | Completed |
+          | [Programming-Parallel-Computers](https://github.com/SpringNuance/Programming-Parallel-Computers) | public | Completed |
+          | [Concurrent-Programming](https://github.com/SpringNuance/Concurrent-Programming) | public | Completed |
           | [Big-Data-Platforms](https://github.com/SpringNuance/Big-Data-Platforms) | public | Completed |
-          | [Data-Structures-And-Algorithms](https://github.com/SpringNuance/Data-Structures-And-Algorithms) | private | Completed |
-          | [Programming-II](https://github.com/SpringNuance/Programming-II) | private | Completed |
-          | [Object-Oriented-Programming-With-Cpp](https://github.com/SpringNuance/Object-Oriented-Programming-With-Cpp) | public | Completed |
-          | [Programming-I](https://github.com/SpringNuance/Programming-I) | public | Completed |
-          | [Network-Security](https://github.com/SpringNuance/Network-Security) | public | Completed |
-          | [Platform-Security](https://github.com/SpringNuance/Platform-Security) | public | Completed |
           | [Databases](https://github.com/SpringNuance/Databases) | private | Completed |
+          | [Computer-Vision](https://github.com/SpringNuance/Computer-Vision) | public | Completed |
+          | [Computer-Graphics](https://github.com/SpringNuance/Computer-Graphics) | public | Completed |
+          | [Computer-Networks](https://github.com/SpringNuance/Computer-Networks) | public | Completed |
+          | [Cryptography](https://github.com/SpringNuance/Cryptography) | public | Completed |
+          | [Platform-Security](https://github.com/SpringNuance/Platform-Security) | public | Completed |
+          | [Network-Security](https://github.com/SpringNuance/Network-Security) | public | Completed |
           | [Information-Security](https://github.com/SpringNuance/Information-Security) | public | Completed |
           | [Operating-System](https://github.com/SpringNuance/Operating-System) | public | Completed |
-          | [Basic-Course-In-C-Programming](https://github.com/SpringNuance/Basic-Course-In-C-Programming) | public | Completed |
-          | [Computer-Graphics](https://github.com/SpringNuance/Computer-Graphics) | public | Completed |
-          | [Theory-Of-Computation](https://github.com/SpringNuance/Theory-Of-Computation) | public | Completed |
-          | [Computer-Networks](https://github.com/SpringNuance/Computer-Networks) | public | Completed |
-          | [Beginner-Python-For-Engineer](https://github.com/SpringNuance/Beginner-Python-For-Engineer) | public | Completed |
-          | [Cryptography](https://github.com/SpringNuance/Cryptography) | public | Completed |
-          | [Programming-Parallel-Computers](https://github.com/SpringNuance/Programming-Parallel-Computers) | public | Completed |
           | [Principles-Of-Algorithmic-Techniques](https://github.com/SpringNuance/Principles-Of-Algorithmic-Techniques) | public | Completed |
-          | [Programming-Parallel-Supercomputers](https://github.com/SpringNuance/Programming-Parallel-Supercomputers) | public | Completed |
-          | [Concurrent-Programming](https://github.com/SpringNuance/Concurrent-Programming) | public | Completed |
           | [Approximation-Algorithms](https://github.com/SpringNuance/Approximation-Algorithms) | public | Completed |
+          | [Theory-Of-Computation](https://github.com/SpringNuance/Theory-Of-Computation) | public | Completed |
+          | [Web-Software-Development](https://github.com/SpringNuance/Web-Software-Development) | private | Completed |
+          | [Object-Oriented-Programming-With-Cpp](https://github.com/SpringNuance/Object-Oriented-Programming-With-Cpp) | public | Completed |
+          | [Basic-Course-In-C-Programming](https://github.com/SpringNuance/Basic-Course-In-C-Programming) | public | Completed |
+          | [Beginner-Python-For-Engineer](https://github.com/SpringNuance/Beginner-Python-For-Engineer) | public | Completed |
+          | [Data-Structures-And-Algorithms](https://github.com/SpringNuance/Data-Structures-And-Algorithms) | private | Completed |
+          | [Programming-II](https://github.com/SpringNuance/Programming-II) | private | Completed |
+          | [Programming-I](https://github.com/SpringNuance/Programming-I) | public | Completed |
 
         </details>
 
