@@ -49,6 +49,8 @@ My Github has many repositories, so I categorize them below here for easier navi
   - <details>
       <summary>Research & project repositories</summary>
 
+      <br>
+      
       - <details>
           <summary>Journal manuscripts</summary>
 
