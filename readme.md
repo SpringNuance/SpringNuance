@@ -200,7 +200,6 @@ If you wish to access Private repositories, please send me a direct email for re
           | [Mechanical-Testing-Of-Materials](https://github.com/SpringNuance/Mechanical-Testing-Of-Materials) | public | Completed |
           | [Production-Systems-Modelling](https://github.com/SpringNuance/Production-Systems-Modelling) | public | Completed |
           | [Computational-Fluid-Dynamics](https://github.com/SpringNuance/Computational-Fluid-Dynamics) | private | Completed |
-          
           | [Thin-walled-Structures](https://github.com/SpringNuance/Thin-walled-Structures) | public | Completed |
           | [Foundations-Of-Continuum-Mechanics](https://github.com/SpringNuance/Foundations-Of-Continuum-Mechanics) | public | Completed |
           | [Electromagnetism](https://github.com/SpringNuance/Electromagnetism) | public | Completed |
@@ -265,18 +264,19 @@ If you wish to access Private repositories, please send me a direct email for re
           
           | Name | Visibility | Status |
           |:--------:|:--------------:|:-------------:|
+          | [Deep-Learning](https://github.com/SpringNuance/Deep-Learning) | public | Completed |
           | [Deep-Generative-Models](https://github.com/SpringNuance/Deep-Generative-Models) | public | Completed |
-          | [Gaussian-Processes](https://github.com/SpringNuance/Gaussian-Processes) | public | Completed |
-          | [Special-Course-Bayesian-Workflows](https://github.com/SpringNuance/Special-Course-Bayesian-Workflows) | private | Completed |
           | [Machine-Learning-Advanced-Probabilistic-Methods](https://github.com/SpringNuance/Machine-Learning-Advanced-Probabilistic-Methods) | public | Completed |
-          | [Introduction-To-Artificial-Intelligence](https://github.com/SpringNuance/Introduction-To-Artificial-Intelligence) | public | Completed |
-          | [Declarative-Programming](https://github.com/SpringNuance/Declarative-Programming) | private | Completed |
-          | [Methods-Of-Data-Mining](https://github.com/SpringNuance/Methods-Of-Data-Mining) | public | Completed |
+          | [Gaussian-Processes](https://github.com/SpringNuance/Gaussian-Processes) | public | Completed |
           | [Reinforcement-Learning](https://github.com/SpringNuance/Reinforcement-Learning) | public | Completed |
-          | [Artificial-Intelligence](https://github.com/SpringNuance/Artificial-Intelligence) | private | Completed |
-          | [Machine-Learning](https://github.com/SpringNuance/Machine-Learning) | public | Completed |
-          | [Machine-Learning-Supervised-Methods](https://github.com/SpringNuance/Machine-Learning-Supervised-Methods) | public | Completed |
+          | [Special-Course-Bayesian-Workflows](https://github.com/SpringNuance/Special-Course-Bayesian-Workflows) | private | Completed |
           | [Bayesian-Data-Analysis](https://github.com/SpringNuance/Bayesian-Data-Analysis) | public | Completed |
+          | [Methods-Of-Data-Mining](https://github.com/SpringNuance/Methods-Of-Data-Mining) | public | Completed |
+          | [Machine-Learning-Supervised-Methods](https://github.com/SpringNuance/Machine-Learning-Supervised-Methods) | public | Completed |
+          | [Machine-Learning](https://github.com/SpringNuance/Machine-Learning) | public | Completed |
+          | [Declarative-Programming](https://github.com/SpringNuance/Declarative-Programming) | private | Completed |
+          | [Artificial-Intelligence](https://github.com/SpringNuance/Artificial-Intelligence) | private | Completed |
+          | [Introduction-To-Artificial-Intelligence](https://github.com/SpringNuance/Introduction-To-Artificial-Intelligence) | public | Completed |
 
         </details>
 
@@ -295,7 +295,6 @@ If you wish to access Private repositories, please send me a direct email for re
           | [Special-Course-In-MACADAMIA](https://github.com/SpringNuance/Special-Course-In-MACADAMIA) | private | Completed |
           | [Modeling-Biological-Networks](https://github.com/SpringNuance/Modeling-Biological-Networks) | private | Completed |
           | [Statistical-Genetics-And-Personalised-Medicine](https://github.com/SpringNuance/Statistical-Genetics-And-Personalised-Medicine) | private | Completed |
-          | [Deep-Learning](https://github.com/SpringNuance/Deep-Learning) | public | Completed |
           | [Business-Analytics-II](https://github.com/SpringNuance/Business-Analytics-II) | public | Completed |
           | [Special-Course-Large-Scale-Computing-And-Data-Analysis](https://github.com/SpringNuance/Special-Course-Large-Scale-Computing-And-Data-Analysis) | public | Completed |
           | [Special-Course-Machine-Learning-For-Climate-Action](https://github.com/SpringNuance/Special-Course-Machine-Learning-For-Climate-Action) | public | Completed |
@@ -306,7 +305,6 @@ If you wish to access Private repositories, please send me a direct email for re
           | [Large-Scale-Data-Analysis](https://github.com/SpringNuance/Large-Scale-Data-Analysis) | public | Completed |
           | [Information-Visualization](https://github.com/SpringNuance/Information-Visualization) | public | Completed |
           | [Computational-Social-Science](https://github.com/SpringNuance/Computational-Social-Science) | public | Completed |
-          
           | [Deep-Learning-With-Python](https://github.com/SpringNuance/Deep-Learning-With-Python) | public | Completed |
           | [MySQL-For-Data-Analytics](https://github.com/SpringNuance/MySQL-For-Data-Analytics) | public | Completed |
 
