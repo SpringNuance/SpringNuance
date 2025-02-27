@@ -39,8 +39,7 @@
 
  -->
 
-My Github has many repositories, so I categorize them below here for easier navigation. 
-If you wish to access Private repositories, please send me a direct email for request.
+My Github has many repositories, so I categorize them below here for easier navigation. There are some private repositories, mostly due to proprietary knowledge and unpublished research work. If you wish to access Private repositories, please send me a direct email for request.
 
 <details>
 
