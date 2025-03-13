@@ -78,6 +78,7 @@ My Github has many repositories, so I categorize them below here for easier navi
           |:--------:|:--------------:|:-------------:|
           | [Master-Thesis-Hydrogen-Official](https://github.com/SpringNuance/Master-Thesis-Hydrogen-Official) | public | Completed |
           | [Hydrogen-Embrittlement-Subroutine-Aachen](https://github.com/SpringNuance/Hydrogen-Embrittlement-Subroutine-Aachen) | private | Ongoing |
+          | [RVE-Reconstruction-Constrant-Programming-Project](https://github.com/SpringNuance/RVE-Reconstruction-Constrant-Programming-Project) | private | Ongoing |
           | [Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project](https://github.com/SpringNuance/Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project) | private | Ongoing |
           | [Abaqus-Hardening-Seq-2-Seq-Project](https://github.com/SpringNuance/Abaqus-Hardening-Seq-2-Seq-Project) | private | Ongoing |
           | [Abaqus-Hydrogen-Embrittlement-X70-Project](https://github.com/SpringNuance/Abaqus-Hydrogen-Embrittlement-X70-Project) | private | Ongoing |
@@ -276,6 +277,7 @@ My Github has many repositories, so I categorize them below here for easier navi
           | [Gaussian-Processes](https://github.com/SpringNuance/Gaussian-Processes) | public | Completed |
           | [Reinforcement-Learning](https://github.com/SpringNuance/Reinforcement-Learning) | public | Completed |
           | [Large-Scale-Data-Analysis](https://github.com/SpringNuance/Large-Scale-Data-Analysis) | public | Completed |
+          | [Special-Course-Geometric-Deep-Learning](https://github.com/SpringNuance/Special-Course-Geometric-Deep-Learning) | public | Completed |
           | [Special-Course-Bayesian-Workflows](https://github.com/SpringNuance/Special-Course-Bayesian-Workflows) | private | Completed |
           | [Bayesian-Data-Analysis](https://github.com/SpringNuance/Bayesian-Data-Analysis) | public | Completed |
           | [Methods-Of-Data-Mining](https://github.com/SpringNuance/Methods-Of-Data-Mining) | public | Completed |
