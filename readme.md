@@ -12,7 +12,7 @@
 - :zap: I am currently a PhD in multiscale modelling for metal characterization and hydrogen embrittlement at Aachen Univeristy
 - :zap: I studied AI and machine learning for my Master's program at Aalto Univeristy. My Bachelor is in Computational Engineering
 - :zap: I have adequate experience in applied exisitng ML models for solving/aiding material engineering problems
-- :zap: On macroscale, I mostly use Abaqus (Both Implicit and Explicit) for research, and to some extent COMSOL Multiphysics
+- :zap: On macroscale, I mostly use Abaqus (Both Implicit and Explicit) for research, including hydrogen diffusion and damage modelling
 - :zap: On microscale, the standard pipeline is MTEX in Matlab, Dream3D, crystal plasticity such as CPFFT in DAMASK or CPFEM in Abaqus
 - :zap: For SWE side, I have adequate experience in optimization, workflow design, and supercomputing service.  
 
