@@ -328,18 +328,18 @@ My Github has many repositories, so I categorize them below here for easier navi
 
       | Name | Visibility | Status |
       |:--------:|:--------------:|:-------------:|
-      | [Tutorial-Abaqus-CAE](https://github.com/SpringNuance/Tutorial-Abaqus-CAE) | private | Completed |
-      | [Tutorial-Ansys-Workbench](https://github.com/SpringNuance/Tutorial-Ansys-Workbench) | private | Completed |
-      | [Tutorial-ANSYS-Fluent](https://github.com/SpringNuance/Tutorial-ANSYS-Fluent) | private | Completed |
-      | [Tutorial-COMSOL-Multiphysics](https://github.com/SpringNuance/Tutorial-COMSOL-Multiphysics) | private | Completed |
-      | [Tutorial-Altair-Hypermesh-Optistruct](https://github.com/SpringNuance/Tutorial-Altair-Hypermesh-Optistruct) | private | Completed |
-      | [Tutorial-MTEX-Dream3D-Paraview-DAMASK-CPFEM](https://github.com/SpringNuance/Tutorial-MTEX-Dream3D-Neper-DAMASK) | private | Completed |
-      | [Tutorial-MATLAB-SIMULINK](https://github.com/SpringNuance/Tutorial-MATLAB-SIMULINK) | private | Completed |
-      | [Tutorial-AutoCAD](https://github.com/SpringNuance/Tutorial-AutoCAD) | private | Completed |
-      | [Tutorial-Solidworks](https://github.com/SpringNuance/Tutorial-Solidworks) | private | Completed |
-      | [Tutorial-GD-and-T](https://github.com/SpringNuance/Tutorial-GD-and-T) | private | Completed |
-      | [Tutorial-CSC-HPC](https://github.com/SpringNuance/Tutorial-CSC-HPC) | private | Completed |
-      | [Linux-Basics](https://github.com/SpringNuance/Linux-Basics) | public | Completed |
+      | [Tutorial-Abaqus-CAE](https://github.com/SpringNuance/Tutorial-Abaqus-CAE) | private | Ongoing |
+      | [Tutorial-Ansys-Workbench](https://github.com/SpringNuance/Tutorial-Ansys-Workbench) | private | Ongoing |
+      | [Tutorial-ANSYS-Fluent](https://github.com/SpringNuance/Tutorial-ANSYS-Fluent) | private | Ongoing |
+      | [Tutorial-COMSOL-Multiphysics](https://github.com/SpringNuance/Tutorial-COMSOL-Multiphysics) | private | Ongoing |
+      | [Tutorial-Altair-Hypermesh-Optistruct](https://github.com/SpringNuance/Tutorial-Altair-Hypermesh-Optistruct) | private | Ongoing |
+      | [Tutorial-MTEX-Dream3D-Neper-Paraview](https://github.com/SpringNuance/Tutorial-MTEX-Dream3D-Neper-Paraview) | private | Ongoing |
+      | [Tutorial-MATLAB-SIMULINK](https://github.com/SpringNuance/Tutorial-MATLAB-SIMULINK) | private | Ongoing |
+      | [Tutorial-AutoCAD](https://github.com/SpringNuance/Tutorial-AutoCAD) | private | Ongoing |
+      | [Tutorial-Solidworks](https://github.com/SpringNuance/Tutorial-Solidworks) | private | Ongoing |
+      | [Tutorial-GD-and-T](https://github.com/SpringNuance/Tutorial-GD-and-T) | private | Ongoing |
+      | [Tutorial-CSC-HPC](https://github.com/SpringNuance/Tutorial-CSC-HPC) | private | Ongoing |
+      | [Linux-Basics](https://github.com/SpringNuance/Linux-Basics) | public | Ongoing |
       
 
     </details>
