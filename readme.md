@@ -76,7 +76,7 @@ My Github has many repositories, so I categorize them below here for easier navi
         
           | Name | Visibility | Status |
           |:--------:|:--------------:|:-------------:|
-          | [Master-Thesis-Hydrogen-Official](https://github.com/SpringNuance/Master-Thesis-Hydrogen-Official) | public | Completed |
+          | [Master-Thesis-Hydrogen-Official](https://github.com/SpringNuance/Master-Thesis-Hydrogen-Official) | private | Completed |
           | [Hydrogen-Embrittlement-Subroutine-Aachen](https://github.com/SpringNuance/Hydrogen-Embrittlement-Subroutine-Aachen) | private | Ongoing |
           | [RVE-Reconstruction-Constrant-Programming-Project](https://github.com/SpringNuance/RVE-Reconstruction-Constrant-Programming-Project) | private | Ongoing |
           | [Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project](https://github.com/SpringNuance/Abaqus-Strain-Gradient-Crystal-Plasticity-Nanoindentation-Project) | private | Ongoing |
@@ -194,7 +194,6 @@ My Github has many repositories, so I categorize them below here for easier navi
           | [Mechatronic-Machine-Design](https://github.com/SpringNuance/Mechatronic-Machine-Design) | public | Completed |
           | [Mechatronic-Basics](https://github.com/SpringNuance/Mechatronic-Basics) | public | Completed |
           | [Computer-Aided-Tools-In-Engineering](https://github.com/SpringNuance/Computer-Aided-Tools-In-Engineering) | public | Completed |
-          | [Design-for-Additive-Manufacturing](https://github.com/SpringNuance/Design-for-Additive-Manufacturing) | public | Completed |
           | [Machining-Processes](https://github.com/SpringNuance/Machining-Processes) | private | Completed |
           | [Production-Systems-Modelling](https://github.com/SpringNuance/Production-Systems-Modelling) | public | Completed |
           | [Laminated-Composite-and-Functionally-Graded-Materials](https://github.com/SpringNuance/Laminated-Composite-and-Functionally-Graded-Materials) | public | Completed |
